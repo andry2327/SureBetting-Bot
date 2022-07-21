@@ -27,11 +27,13 @@ def get_API_response_Scores(API_KEY, sport, days_from):  # set days_from = 0 if 
     response = get(url)
     return response
 
+
 # .json data from html API response
 
 def response_to_json(response):
     respones = response.content.decode('utf-8')
     return json.loads(response)
+
 
 # get API_KEY remaining requests
 
