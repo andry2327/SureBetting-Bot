@@ -1,3 +1,4 @@
+from contextlib import nullcontext
 from requests import get
 import json
 
@@ -54,7 +55,7 @@ def print_json_to_file(json_object, output_file):
 
 # get a shorter json format from the full json upcoming matches api response, for totals odds
 
-# bookmaker_totals full json -> bookmaker_totals shorter version
+# f: bookmaker_totals full json -> bookmaker_totals shorter version
 def bookmaker_totals_odds_shortner(bookmaker_totals):
     bookmaker_key = bookmaker_totals['key']
     totals = {
@@ -68,8 +69,38 @@ def bookmaker_totals_odds_shortner(bookmaker_totals):
     }
     return bookmaker_totals_short
 
+# f: matches_totals full json -> matches_totals shorter version
 def mathches_totals_odds_shortner(match, mathches_totals_odds):
-    bookmaker_totals_short = match
-    bookmaker_totals_short['bookmakers'] = mathches_totals_odds
-    return bookmaker_totals_short
+    mathches_totals_odds_short = match
+    mathches_totals_odds_short['bookmakers'] = mathches_totals_odds
+    return mathches_totals_odds_short
+
+# f: matches_totals shorter version -> version oredred by U/O points
+
+def mathches_short_order_by_points(mathches_totals_odds_short):
+    mathches_short_ordered_by_points = []
+    for match in mathches_totals_odds_short:
+        if(match['bookmakers']): # list is not null
+            points = {}
+            # get all unique points as keys
+            for bookmaker in match['bookmakers']:
+                if(bookmaker['totals']['points'] not in points.keys()):
+                    points[str(bookmaker['totals']['points'])] = []
+            #add element to each corrisponding keys
+            for key in points.keys():
+                for bookmaker2 in match['bookmakers']:
+                    if(str(bookmaker2['totals']['points']) == str(key)):
+                        points_elem = {
+                            'bookmaker': bookmaker2['bookmaker'],
+                            'totals': {
+                                'Over': bookmaker2['totals']['Over'],
+                                'Under': bookmaker2['totals']['Under']
+                            }
+                        }
+                        points[str(key)].append(points_elem)
+            del match['bookmakers']
+            match['points'] = points
+            mathches_short_ordered_by_points.append(match)
+    return mathches_short_ordered_by_points
+
 

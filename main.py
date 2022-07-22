@@ -22,14 +22,17 @@ while(i in range(0, len(keys_list))):
 
         # for each upcoming event, get its bookmakers and their O/U (totals) odds
         upcoming_matches = []
-        totals_odds = []
         for match in matches_full:
+            totals_odds = []
             for bookmaker in match['bookmakers']:
                 bookmaker_totals = bookmaker_totals_odds_shortner(bookmaker)
-                totals_odds.append(bookmaker_totals) # WRONG: you need odds for each match -> change totals_odds structure
+                totals_odds.append(bookmaker_totals)
             upcoming_matches_element = mathches_totals_odds_shortner(match, totals_odds)
             upcoming_matches.append(upcoming_matches_element)
+
+        a = mathches_short_order_by_points(upcoming_matches)
         print_json_to_file(upcoming_matches, 'totals_odds.json')
+        print_json_to_file(a, 'totals_odds_ordered.json')
         i += 1
         sleep(five_min)
         
