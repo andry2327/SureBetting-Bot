@@ -4,17 +4,19 @@
         "sport_key": "soccer_poland_ekstraklasa",
         "sport_title": "Ekstraklasa - Poland",
         "commence_time": "2022-07-22T16:00:59Z",
-        "home_team": "Warta Pozna\u0144",
-        "away_team": "Wis\u0142a P\u0142ock",
+        "home_team": "Warta Poznań",
+        "away_team": "Wisła Płock",
         "points": {
-            "2.5": [
+            "3.5": [
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.53,
-                        "Under": 2.43
+                        "Over": 1.61,
+                        "Under": 2.2
                     }
-                },
+                }
+            ],
+            "2.5": [
                 {
                     "bookmaker": "mybookieag",
                     "totals": {
@@ -44,8 +46,8 @@
                 {
                     "bookmaker": "onexbet",
                     "totals": {
-                        "Over": 1.57,
-                        "Under": 2.34
+                        "Over": 1.58,
+                        "Under": 2.42
                     }
                 },
                 {
@@ -81,7 +83,7 @@
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 2.04,
+                        "Over": 2.08,
                         "Under": 1.89
                     }
                 }
@@ -93,7 +95,7 @@
         "sport_key": "soccer_germany_bundesliga2",
         "sport_title": "Bundesliga 2 - Germany",
         "commence_time": "2022-07-22T16:30:00Z",
-        "home_team": "Fortuna D\u00fcsseldorf",
+        "home_team": "Fortuna Düsseldorf",
         "away_team": "SC Paderborn",
         "points": {
             "2.5": [
@@ -114,8 +116,8 @@
                 {
                     "bookmaker": "williamhill",
                     "totals": {
-                        "Over": 1.62,
-                        "Under": 2.2
+                        "Over": 1.7,
+                        "Under": 2.05
                     }
                 },
                 {
@@ -144,8 +146,8 @@
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 1.86,
-                        "Under": 2.02
+                        "Over": 1.92,
+                        "Under": 2.0
                     }
                 }
             ]
@@ -193,8 +195,8 @@
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.85,
-                        "Under": 2.04
+                        "Over": 1.84,
+                        "Under": 2.06
                     }
                 },
                 {
@@ -219,8 +221,8 @@
         "sport_key": "soccer_poland_ekstraklasa",
         "sport_title": "Ekstraklasa - Poland",
         "commence_time": "2022-07-22T18:30:00Z",
-        "home_team": "Jagiellonia Bia\u0142ystok",
-        "away_team": "Widzew \u0141\u00f3d\u017a",
+        "home_team": "Jagiellonia Białystok",
+        "away_team": "Widzew Łódź",
         "points": {
             "2.5": [
                 {
@@ -350,15 +352,15 @@
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 2.0,
-                        "Under": 1.88
+                        "Over": 2.03,
+                        "Under": 1.85
                     }
                 },
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 2.02,
-                        "Under": 1.91
+                        "Over": 2.04,
+                        "Under": 1.89
                     }
                 }
             ]
@@ -430,17 +432,24 @@
                     }
                 },
                 {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.88,
+                        "Under": 2.01
+                    }
+                },
+                {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.86,
-                        "Under": 1.98
+                        "Over": 1.9,
+                        "Under": 1.94
                     }
                 },
                 {
                     "bookmaker": "sport888",
                     "totals": {
-                        "Over": 1.86,
-                        "Under": 1.96
+                        "Over": 1.89,
+                        "Under": 1.93
                     }
                 },
                 {
@@ -452,13 +461,6 @@
                 }
             ],
             "10.5": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.89
-                    }
-                },
                 {
                     "bookmaker": "onexbet",
                     "totals": {

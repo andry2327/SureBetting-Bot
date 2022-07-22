@@ -45,12 +45,12 @@ def remaning_requests(response):
 # print json to file 'temp_log.json' with indent
 
 def print_json_to_file(json_object):
-    with open('temp_log.json', 'w') as outfile:
-        json.dump(json_object, outfile, indent=4)
+    with open('temp_log.json', 'w', encoding='utf8') as outfile:
+        json.dump(json_object, outfile, indent=4, ensure_ascii=False)
 
 def print_json_to_file(json_object, output_file):
-    with open(output_file, 'w') as outfile:
-        json.dump(json_object, outfile, indent=4)
+    with open(output_file, 'w', encoding='utf8') as outfile:
+        json.dump(json_object, outfile, indent=4, ensure_ascii=False)
 
 
 # get a shorter json format from the full json upcoming matches api response, for totals odds
