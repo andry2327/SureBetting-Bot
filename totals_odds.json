@@ -1,0 +1,298 @@
+[
+    {
+        "bookmaker": "unibet",
+        "totals": {
+            "points": 135.5,
+            "Over": 1.84,
+            "Under": 1.92
+        }
+    },
+    {
+        "bookmaker": "unibet",
+        "totals": {
+            "points": 49.5,
+            "Over": 1.6,
+            "Under": 2.2
+        }
+    },
+    {
+        "bookmaker": "onexbet",
+        "totals": {
+            "points": 514.5,
+            "Over": 2.02,
+            "Under": 1.83
+        }
+    },
+    {
+        "bookmaker": "unibet",
+        "totals": {
+            "points": 2.5,
+            "Over": 2.18,
+            "Under": 1.68
+        }
+    },
+    {
+        "bookmaker": "onexbet",
+        "totals": {
+            "points": 2.5,
+            "Over": 2.26,
+            "Under": 1.71
+        }
+    },
+    {
+        "bookmaker": "mybookieag",
+        "totals": {
+            "points": 2.5,
+            "Over": 2.24,
+            "Under": 1.63
+        }
+    },
+    {
+        "bookmaker": "sport888",
+        "totals": {
+            "points": 2.5,
+            "Over": 2.18,
+            "Under": 1.68
+        }
+    },
+    {
+        "bookmaker": "mybookieag",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.55,
+            "Under": 2.31
+        }
+    },
+    {
+        "bookmaker": "onexbet",
+        "totals": {
+            "points": 3.5,
+            "Over": 2.41,
+            "Under": 1.54
+        }
+    },
+    {
+        "bookmaker": "williamhill",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.57,
+            "Under": 2.3
+        }
+    },
+    {
+        "bookmaker": "pinnacle",
+        "totals": {
+            "points": 3.0,
+            "Over": 1.95,
+            "Under": 1.93
+        }
+    },
+    {
+        "bookmaker": "sport888",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.57,
+            "Under": 2.4
+        }
+    },
+    {
+        "bookmaker": "unibet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.57,
+            "Under": 2.4
+        }
+    },
+    {
+        "bookmaker": "matchbook",
+        "totals": {
+            "points": 3.0,
+            "Over": 1.91,
+            "Under": 1.96
+        }
+    },
+    {
+        "bookmaker": "mybookieag",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.57,
+            "Under": 2.25
+        }
+    },
+    {
+        "bookmaker": "onexbet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.55,
+            "Under": 2.26
+        }
+    },
+    {
+        "bookmaker": "williamhill",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.62,
+            "Under": 2.2
+        }
+    },
+    {
+        "bookmaker": "pinnacle",
+        "totals": {
+            "points": 3.0,
+            "Over": 2.06,
+            "Under": 1.84
+        }
+    },
+    {
+        "bookmaker": "sport888",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.63,
+            "Under": 2.28
+        }
+    },
+    {
+        "bookmaker": "unibet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.63,
+            "Under": 2.28
+        }
+    },
+    {
+        "bookmaker": "unibet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.63,
+            "Under": 2.28
+        }
+    },
+    {
+        "bookmaker": "sport888",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.63,
+            "Under": 2.28
+        }
+    },
+    {
+        "bookmaker": "onexbet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.63,
+            "Under": 2.31
+        }
+    },
+    {
+        "bookmaker": "williamhill",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.67,
+            "Under": 2.1
+        }
+    },
+    {
+        "bookmaker": "pinnacle",
+        "totals": {
+            "points": 2.75,
+            "Over": 1.83,
+            "Under": 2.07
+        }
+    },
+    {
+        "bookmaker": "matchbook",
+        "totals": {
+            "points": 3.0,
+            "Over": 2.02,
+            "Under": 1.79
+        }
+    },
+    {
+        "bookmaker": "betonlineag",
+        "totals": {
+            "points": 3.0,
+            "Over": 1.95,
+            "Under": 1.87
+        }
+    },
+    {
+        "bookmaker": "unibet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.95,
+            "Under": 1.85
+        }
+    },
+    {
+        "bookmaker": "onexbet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.99,
+            "Under": 1.89
+        }
+    },
+    {
+        "bookmaker": "mybookieag",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.97,
+            "Under": 1.81
+        }
+    },
+    {
+        "bookmaker": "sport888",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.95,
+            "Under": 1.85
+        }
+    },
+    {
+        "bookmaker": "unibet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.84,
+            "Under": 1.91
+        }
+    },
+    {
+        "bookmaker": "onexbet",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.88,
+            "Under": 2.01
+        }
+    },
+    {
+        "bookmaker": "sport888",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.84,
+            "Under": 1.91
+        }
+    },
+    {
+        "bookmaker": "pinnacle",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.89,
+            "Under": 2.0
+        }
+    },
+    {
+        "bookmaker": "williamhill",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.8,
+            "Under": 1.91
+        }
+    },
+    {
+        "bookmaker": "betonlineag",
+        "totals": {
+            "points": 2.5,
+            "Over": 1.83,
+            "Under": 2.0
+        }
+    }
+]
