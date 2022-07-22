@@ -31,7 +31,7 @@ def get_API_response_Scores(API_KEY, sport, days_from):  # set days_from = 0 if 
 # .json data from html API response
 
 def response_to_json(response):
-    respones = response.content.decode('utf-8')
+    response = response.content.decode('utf-8')
     return json.loads(response)
 
 
@@ -40,4 +40,10 @@ def response_to_json(response):
 def remaning_requests(response):
     headers = response.headers
     return int(headers['X-Requests-Remaining'])
+
+# print json to file 'temp_log.json' with indent
+
+def print_json_to_file(json_file):
+    with open('temp_log.json', 'w') as outfile:
+        json.dump(json_file, outfile, indent=4)
 

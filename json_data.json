@@ -1,0 +1,848 @@
+[
+    {
+        "id": "72bf53fb55a380cf106cdeaa5ede743c",
+        "sport_key": "rugbyleague_nrl",
+        "sport_title": "NRL",
+        "commence_time": "2022-07-22T08:00:00Z",
+        "home_team": "St George Illawarra Dragons",
+        "away_team": "Manly Warringah Sea Eagles",
+        "bookmakers": []
+    },
+    {
+        "id": "a43da5115ebada93663bed5b9971bf15",
+        "sport_key": "aussierules_afl",
+        "sport_title": "AFL",
+        "commence_time": "2022-07-22T09:50:28Z",
+        "home_team": "Richmond Tigers",
+        "away_team": "Fremantle Dockers",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2022-07-22T09:56:31Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 173.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.89,
+                                "point": 173.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2022-07-22T09:50:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.9,
+                                "point": 166.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.9,
+                                "point": 166.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "481e063a3da0cbbe1f02690ee5d89a0c",
+        "sport_key": "rugbyleague_nrl",
+        "sport_title": "NRL",
+        "commence_time": "2022-07-22T10:00:00Z",
+        "home_team": "Newcastle Knights",
+        "away_team": "Sydney Roosters",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2022-07-22T09:56:40Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.84,
+                                "point": 43.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.96,
+                                "point": 43.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2022-07-22T09:56:43Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.84,
+                                "point": 43.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.96,
+                                "point": 43.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0edef91513e98798b152943be9f9dcaa",
+        "sport_key": "cricket_odi",
+        "sport_title": "One Day Internationals",
+        "commence_time": "2022-07-22T12:00:00Z",
+        "home_team": "England",
+        "away_team": "South Africa",
+        "bookmakers": []
+    },
+    {
+        "id": "cdb002ec3e4fd61d25c7809cb46a906c",
+        "sport_key": "cricket_odi",
+        "sport_title": "One Day Internationals",
+        "commence_time": "2022-07-22T13:30:00Z",
+        "home_team": "West Indies",
+        "away_team": "India",
+        "bookmakers": [
+            {
+                "key": "onexbet",
+                "title": "1xBet",
+                "last_update": "2022-07-22T09:56:49Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.02,
+                                "point": 514.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.83,
+                                "point": 514.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "65a598766c699b4555f7a53c1bb93e48",
+        "sport_key": "soccer_poland_ekstraklasa",
+        "sport_title": "Ekstraklasa - Poland",
+        "commence_time": "2022-07-22T16:00:00Z",
+        "home_team": "Warta Pozna\u0144",
+        "away_team": "Wis\u0142a P\u0142ock",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2022-07-22T09:56:21Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.18,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.68,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "onexbet",
+                "title": "1xBet",
+                "last_update": "2022-07-22T09:56:31Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.26,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.71,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-07-22T09:53:07Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.19,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.66,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2022-07-22T09:52:51Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.18,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.68,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "481aff50dbb5807d141c07deee69ba1a",
+        "sport_key": "soccer_germany_bundesliga2",
+        "sport_title": "Bundesliga 2 - Germany",
+        "commence_time": "2022-07-22T16:30:00Z",
+        "home_team": "Darmstadt 98",
+        "away_team": "SV Sandhausen",
+        "bookmakers": [
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-07-22T09:52:58Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "onexbet",
+                "title": "1xBet",
+                "last_update": "2022-07-22T09:52:38Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.44,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2022-07-22T09:44:30Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pinnacle",
+                "title": "Pinnacle",
+                "last_update": "2022-07-22T09:55:02Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.97,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.91,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2022-07-22T09:56:27Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.4,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2022-07-22T09:53:30Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.4,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2022-07-22T09:55:44Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.97,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.89,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "70fb54a4210eb3d3ace3a9d0c41d568a",
+        "sport_key": "soccer_germany_bundesliga2",
+        "sport_title": "Bundesliga 2 - Germany",
+        "commence_time": "2022-07-22T16:30:00Z",
+        "home_team": "Fortuna D\u00fcsseldorf",
+        "away_team": "SC Paderborn",
+        "bookmakers": [
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-07-22T09:52:58Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "onexbet",
+                "title": "1xBet",
+                "last_update": "2022-07-22T09:52:38Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2022-07-22T09:44:30Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pinnacle",
+                "title": "Pinnacle",
+                "last_update": "2022-07-22T09:55:02Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.02,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.87,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2022-07-22T09:56:27Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.43,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2022-07-22T09:53:30Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.43,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2022-07-22T09:55:44Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.02,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.86,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b06cbcc61226edd1164bcb2387595e9f",
+        "sport_key": "soccer_denmark_superliga",
+        "sport_title": "Denmark Superliga",
+        "commence_time": "2022-07-22T17:00:00Z",
+        "home_team": "FC Midtjylland",
+        "away_team": "Silkeborg IF",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2022-07-22T09:51:09Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.63,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.28,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2022-07-22T09:53:39Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.63,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.28,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "onexbet",
+                "title": "1xBet",
+                "last_update": "2022-07-22T09:55:25Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.33,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2022-07-22T09:55:51Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "pinnacle",
+                "title": "Pinnacle",
+                "last_update": "2022-07-22T09:55:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.83,
+                                "point": 2.75
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.08,
+                                "point": 2.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2022-07-22T09:52:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.97,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.75,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2022-07-22T09:54:53Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.83,
+                                "point": 2.75
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.0,
+                                "point": 2.75
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "449954323a639bcfc8552f8ec8635a3a",
+        "sport_key": "soccer_poland_ekstraklasa",
+        "sport_title": "Ekstraklasa - Poland",
+        "commence_time": "2022-07-22T18:30:00Z",
+        "home_team": "Jagiellonia Bia\u0142ystok",
+        "away_team": "Widzew \u0141\u00f3d\u017a",
+        "bookmakers": [
+            {
+                "key": "unibet",
+                "title": "Unibet",
+                "last_update": "2022-07-22T09:56:21Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.81,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "onexbet",
+                "title": "1xBet",
+                "last_update": "2022-07-22T09:56:31Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2022-07-22T09:53:07Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.97,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.81,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2022-07-22T09:52:51Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.81,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
