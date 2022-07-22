@@ -30,8 +30,8 @@ while(i in range(0, len(keys_list))):
             upcoming_matches_element = mathches_totals_odds_shortner(match, totals_odds)
             upcoming_matches.append(upcoming_matches_element)
 
-        a = mathches_short_order_by_points(upcoming_matches)
         print_json_to_file(upcoming_matches, 'totals_odds.json')
+        a = mathches_short_order_by_points(upcoming_matches)
         print_json_to_file(a, 'totals_odds_ordered.json')
         i += 1
         sleep(five_min)

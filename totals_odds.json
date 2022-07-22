@@ -24,31 +24,24 @@
         "commence_time": "2022-07-22T16:00:59Z",
         "home_team": "Warta Pozna\u0144",
         "away_team": "Wis\u0142a P\u0142ock",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 2.4,
-                        "Under": 1.56
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 2.24,
-                        "Under": 1.63
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 2.18,
-                        "Under": 1.68
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.53,
+                    "Under": 2.43
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "mybookieag",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 2.24,
+                    "Under": 1.63
+                }
+            }
+        ]
     },
     {
         "id": "481aff50dbb5807d141c07deee69ba1a",
@@ -57,63 +50,64 @@
         "commence_time": "2022-07-22T16:30:00Z",
         "home_team": "Darmstadt 98",
         "away_team": "SV Sandhausen",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.55,
-                        "Under": 2.3
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.57,
-                        "Under": 2.34
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.57,
-                        "Under": 2.3
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "mybookieag",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.55,
+                    "Under": 2.3
                 }
-            ],
-            "3.0": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.99,
-                        "Under": 1.9
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.9
-                    }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.57,
+                    "Under": 2.34
                 }
-            ],
-            "3.5": [
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 2.35,
-                        "Under": 1.58
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 2.35,
-                        "Under": 1.58
-                    }
+            },
+            {
+                "bookmaker": "williamhill",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.57,
+                    "Under": 2.3
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "pinnacle",
+                "totals": {
+                    "points": 3.0,
+                    "Over": 2.02,
+                    "Under": 1.87
+                }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.58,
+                    "Under": 2.35
+                }
+            },
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.58,
+                    "Under": 2.35
+                }
+            },
+            {
+                "bookmaker": "matchbook",
+                "totals": {
+                    "points": 3.0,
+                    "Over": 2.04,
+                    "Under": 1.89
+                }
+            }
+        ]
     },
     {
         "id": "70fb54a4210eb3d3ace3a9d0c41d568a",
@@ -122,61 +116,64 @@
         "commence_time": "2022-07-22T16:30:00Z",
         "home_team": "Fortuna D\u00fcsseldorf",
         "away_team": "SC Paderborn",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.57,
-                        "Under": 2.25
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.58,
-                        "Under": 2.32
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.62,
-                        "Under": 2.2
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.58,
-                        "Under": 2.35
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.58,
-                        "Under": 2.35
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "mybookieag",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.57,
+                    "Under": 2.25
                 }
-            ],
-            "3.0": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.89
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 2.08,
-                        "Under": 1.86
-                    }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.61,
+                    "Under": 2.34
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "williamhill",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.62,
+                    "Under": 2.2
+                }
+            },
+            {
+                "bookmaker": "pinnacle",
+                "totals": {
+                    "points": 2.75,
+                    "Over": 1.86,
+                    "Under": 2.04
+                }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.58,
+                    "Under": 2.35
+                }
+            },
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.58,
+                    "Under": 2.35
+                }
+            },
+            {
+                "bookmaker": "matchbook",
+                "totals": {
+                    "points": 2.75,
+                    "Over": 1.86,
+                    "Under": 2.02
+                }
+            }
+        ]
     },
     {
         "id": "b06cbcc61226edd1164bcb2387595e9f",
@@ -185,61 +182,64 @@
         "commence_time": "2022-07-22T17:00:00Z",
         "home_team": "FC Midtjylland",
         "away_team": "Silkeborg IF",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.63,
-                        "Under": 2.28
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.63,
-                        "Under": 2.28
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.69,
-                        "Under": 2.29
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.67,
-                        "Under": 2.1
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.63,
+                    "Under": 2.28
                 }
-            ],
-            "2.75": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.85,
-                        "Under": 2.04
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 1.86,
-                        "Under": 2.0
-                    }
-                },
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 1.95
-                    }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.63,
+                    "Under": 2.28
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.69,
+                    "Under": 2.29
+                }
+            },
+            {
+                "bookmaker": "williamhill",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.67,
+                    "Under": 2.1
+                }
+            },
+            {
+                "bookmaker": "pinnacle",
+                "totals": {
+                    "points": 2.75,
+                    "Over": 1.85,
+                    "Under": 2.04
+                }
+            },
+            {
+                "bookmaker": "matchbook",
+                "totals": {
+                    "points": 2.75,
+                    "Over": 1.86,
+                    "Under": 2.0
+                }
+            },
+            {
+                "bookmaker": "betonlineag",
+                "totals": {
+                    "points": 2.75,
+                    "Over": 1.87,
+                    "Under": 1.95
+                }
+            }
+        ]
     },
     {
         "id": "449954323a639bcfc8552f8ec8635a3a",
@@ -248,38 +248,40 @@
         "commence_time": "2022-07-22T18:30:00Z",
         "home_team": "Jagiellonia Bia\u0142ystok",
         "away_team": "Widzew \u0141\u00f3d\u017a",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.95,
-                        "Under": 1.85
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.98,
-                        "Under": 1.89
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.93,
-                        "Under": 1.84
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.95,
-                        "Under": 1.85
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.95,
+                    "Under": 1.85
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.98,
+                    "Under": 1.89
+                }
+            },
+            {
+                "bookmaker": "mybookieag",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.97,
+                    "Under": 1.81
+                }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.95,
+                    "Under": 1.85
+                }
+            }
+        ]
     },
     {
         "id": "3f86dc847758721be9545710dfa19990",
@@ -288,54 +290,56 @@
         "commence_time": "2022-07-22T18:45:00Z",
         "home_team": "Dundalk",
         "away_team": "Finn Harps",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.8,
-                        "Under": 1.95
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.81,
-                        "Under": 2.03
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.8,
-                        "Under": 1.95
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.88,
-                        "Under": 2.02
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.73,
-                        "Under": 2.0
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.8,
+                    "Under": 1.95
                 }
-            ],
-            "2.75": [
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 2.01,
-                        "Under": 1.83
-                    }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.81,
+                    "Under": 2.03
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.8,
+                    "Under": 1.95
+                }
+            },
+            {
+                "bookmaker": "pinnacle",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.88,
+                    "Under": 2.02
+                }
+            },
+            {
+                "bookmaker": "williamhill",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.73,
+                    "Under": 2.0
+                }
+            },
+            {
+                "bookmaker": "betonlineag",
+                "totals": {
+                    "points": 2.75,
+                    "Over": 2.01,
+                    "Under": 1.83
+                }
+            }
+        ]
     },
     {
         "id": "20f87ff68b56288746ad6c7b471d14c7",
@@ -344,52 +348,56 @@
         "commence_time": "2022-07-22T18:45:00Z",
         "home_team": "Standard Liege",
         "away_team": "Gent",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.97,
-                        "Under": 1.84
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.91,
-                        "Under": 1.8
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.97,
-                        "Under": 1.85
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.97,
-                        "Under": 1.84
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.88
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 2.02,
-                        "Under": 1.91
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.97,
+                    "Under": 1.84
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "williamhill",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.91,
+                    "Under": 1.8
+                }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.97,
+                    "Under": 1.85
+                }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 1.97,
+                    "Under": 1.84
+                }
+            },
+            {
+                "bookmaker": "pinnacle",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 2.0,
+                    "Under": 1.88
+                }
+            },
+            {
+                "bookmaker": "matchbook",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 2.02,
+                    "Under": 1.91
+                }
+            }
+        ]
     },
     {
         "id": "37c623403ae3081b492676695f13b553",
@@ -398,47 +406,48 @@
         "commence_time": "2022-07-22T18:45:00Z",
         "home_team": "UC Dublin",
         "away_team": "Shelbourne Dublin",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 2.28,
-                        "Under": 1.6
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 2.39,
-                        "Under": 1.64
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 2.28,
-                        "Under": 1.6
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 2.3,
-                        "Under": 1.57
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 2.28,
+                    "Under": 1.6
                 }
-            ],
-            "2.25": [
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 2.06,
-                        "Under": 1.79
-                    }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 2.39,
+                    "Under": 1.64
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 2.28,
+                    "Under": 1.6
+                }
+            },
+            {
+                "bookmaker": "williamhill",
+                "totals": {
+                    "points": 2.5,
+                    "Over": 2.3,
+                    "Under": 1.57
+                }
+            },
+            {
+                "bookmaker": "betonlineag",
+                "totals": {
+                    "points": 2.25,
+                    "Over": 2.06,
+                    "Under": 1.79
+                }
+            }
+        ]
     },
     {
         "id": "960e3d6e2173f6716659c00ca8bb8cc9",
@@ -447,53 +456,55 @@
         "commence_time": "2022-07-22T22:41:00Z",
         "home_team": "Cincinnati Reds",
         "away_team": "St. Louis Cardinals",
-        "points": {
-            "10.0": [
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 1.95
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.85,
-                        "Under": 1.98
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 1.95
-                    }
+        "bookmakers": [
+            {
+                "bookmaker": "betonlineag",
+                "totals": {
+                    "points": 10.0,
+                    "Over": 1.87,
+                    "Under": 1.95
                 }
-            ],
-            "10.5": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.89
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 2.05,
-                        "Under": 1.9
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.98,
-                        "Under": 1.86
-                    }
+            },
+            {
+                "bookmaker": "pinnacle",
+                "totals": {
+                    "points": 10.5,
+                    "Over": 2.0,
+                    "Under": 1.89
                 }
-            ]
-        }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "points": 10.5,
+                    "Over": 2.05,
+                    "Under": 1.9
+                }
+            },
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "points": 10.0,
+                    "Over": 1.86,
+                    "Under": 1.98
+                }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "points": 10.0,
+                    "Over": 1.86,
+                    "Under": 1.96
+                }
+            },
+            {
+                "bookmaker": "mybookieag",
+                "totals": {
+                    "points": 10.0,
+                    "Over": 1.87,
+                    "Under": 1.95
+                }
+            }
+        ]
     }
 ]
