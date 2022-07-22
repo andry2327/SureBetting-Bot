@@ -54,5 +54,22 @@ def print_json_to_file(json_object, output_file):
 
 # get a shorter json format from the full json upcoming matches api response, for totals odds
 
-def totals_odds_match():
-    pass
+# bookmaker_totals full json -> bookmaker_totals shorter version
+def bookmaker_totals_odds_shortner(bookmaker_totals):
+    bookmaker_key = bookmaker_totals['key']
+    totals = {
+        'points': float(bookmaker_totals['markets'][0]['outcomes'][0]['point']),
+        'Over': float(bookmaker_totals['markets'][0]['outcomes'][0]['price']),
+        'Under': float(bookmaker_totals['markets'][0]['outcomes'][1]['price'])
+    }
+    bookmaker_totals_short = {
+        'bookmaker': bookmaker_key,
+        'totals': totals
+    }
+    return bookmaker_totals_short
+
+def mathches_totals_odds_shortner(match, mathches_totals_odds):
+    bookmaker_totals_short = match
+    bookmaker_totals_short['bookmakers'] = mathches_totals_odds
+    return bookmaker_totals_short
+

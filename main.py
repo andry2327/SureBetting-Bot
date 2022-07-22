@@ -21,22 +21,15 @@ while(i in range(0, len(keys_list))):
         matches_full = response_to_json(response)
 
         # for each upcoming event, get its bookmakers and their O/U (totals) odds
+        upcoming_matches = []
         totals_odds = []
         for match in matches_full:
             for bookmaker in match['bookmakers']:
-                bookmaker_key = bookmaker['key']
-                totals = {
-                    'points': float(bookmaker['markets'][0]['outcomes'][0]['point']),
-                    'Over': float(bookmaker['markets'][0]['outcomes'][0]['price']),
-                    'Under': float(bookmaker['markets'][0]['outcomes'][1]['price'])
-                }
-                totals_odds_element = {
-                    'bookmaker': bookmaker_key,
-                    'totals': totals
-                    }
-                totals_odds.append(totals_odds_element) # WRONG: you need odds for each match -> change totals_odds structure
-
-        print_json_to_file(totals_odds, 'totals_odds.json')
+                bookmaker_totals = bookmaker_totals_odds_shortner(bookmaker)
+                totals_odds.append(bookmaker_totals) # WRONG: you need odds for each match -> change totals_odds structure
+            upcoming_matches_element = mathches_totals_odds_shortner(match, totals_odds)
+            upcoming_matches.append(upcoming_matches_element)
+        print_json_to_file(upcoming_matches, 'totals_odds.json')
         i += 1
         sleep(five_min)
         
