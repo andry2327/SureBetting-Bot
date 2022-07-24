@@ -14,13 +14,6 @@
                         "Over": 2.05,
                         "Under": 1.74
                     }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 2.14,
-                        "Under": 1.88
-                    }
                 }
             ],
             "2.75": [
@@ -29,6 +22,15 @@
                     "totals": {
                         "Over": 2.01,
                         "Under": 1.85
+                    }
+                }
+            ],
+            "3.5": [
+                {
+                    "bookmaker": "matchbook",
+                    "totals": {
+                        "Over": 9.2,
+                        "Under": 1.08
                     }
                 }
             ]
@@ -46,17 +48,15 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.95,
-                        "Under": 1.81
+                        "Over": 2.1,
+                        "Under": 1.73
                     }
-                }
-            ],
-            "3.0": [
+                },
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 2.2,
-                        "Under": 1.72
+                        "Over": 1.97,
+                        "Under": 1.92
                     }
                 }
             ]
@@ -81,8 +81,8 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 2.48,
-                        "Under": 1.49
+                        "Over": 2.7,
+                        "Under": 1.44
                     }
                 }
             ],
@@ -107,13 +107,6 @@
         "points": {
             "1.5": [
                 {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 2.08,
-                        "Under": 1.51
-                    }
-                },
-                {
                     "bookmaker": "pinnacle",
                     "totals": {
                         "Over": 2.07,
@@ -123,8 +116,8 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 2.65,
-                        "Under": 1.5
+                        "Over": 3.15,
+                        "Under": 1.37
                     }
                 }
             ]
@@ -158,15 +151,15 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.98,
-                        "Under": 1.79
+                        "Over": 2.23,
+                        "Under": 1.6
                     }
                 },
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 2.0,
-                        "Under": 1.89
+                        "Over": 2.3,
+                        "Under": 1.65
                     }
                 }
             ]
@@ -193,8 +186,8 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.72,
-                        "Under": 2.04
+                        "Over": 1.92,
+                        "Under": 1.85
                     }
                 }
             ]
@@ -215,12 +208,14 @@
                         "Over": 1.96,
                         "Under": 1.9
                     }
-                },
+                }
+            ],
+            "3.5": [
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.85,
-                        "Under": 1.87
+                        "Over": 1.86,
+                        "Under": 1.83
                     }
                 }
             ]
@@ -230,7 +225,7 @@
         "id": "102170dd0d48054e7bc2ac0cc5db947e",
         "sport_key": "soccer_sweden_allsvenskan",
         "sport_title": "Allsvenskan - Sweden",
-        "commence_time": "2022-07-24T15:30:00Z",
+        "commence_time": "2022-07-24T15:30:33Z",
         "home_team": "BK Hacken",
         "away_team": "Djurgardens IF",
         "points": {
@@ -238,8 +233,8 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.75,
-                        "Under": 2.02
+                        "Over": 1.82,
+                        "Under": 1.94
                     }
                 },
                 {
@@ -247,13 +242,6 @@
                     "totals": {
                         "Over": 1.58,
                         "Under": 2.38
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.55,
-                        "Under": 2.32
                     }
                 },
                 {
@@ -266,8 +254,8 @@
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 1.79,
-                        "Under": 2.02
+                        "Over": 1.85,
+                        "Under": 2.0
                     }
                 }
             ],
@@ -286,7 +274,7 @@
         "id": "cc6d7dab52e8d800ff391336beac1b6f",
         "sport_key": "soccer_sweden_allsvenskan",
         "sport_title": "Allsvenskan - Sweden",
-        "commence_time": "2022-07-24T15:30:00Z",
+        "commence_time": "2022-07-24T15:30:54Z",
         "home_team": "Kalmar FF",
         "away_team": "IF Elfsborg",
         "points": {
@@ -294,8 +282,8 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 2.0,
-                        "Under": 1.8
+                        "Over": 2.14,
+                        "Under": 1.73
                     }
                 },
                 {
@@ -303,13 +291,6 @@
                     "totals": {
                         "Over": 1.83,
                         "Under": 1.98
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 2.01
                     }
                 },
                 {
@@ -322,8 +303,8 @@
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 2.0,
-                        "Under": 1.87
+                        "Over": 2.16,
+                        "Under": 1.76
                     }
                 },
                 {
@@ -348,19 +329,12 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 2.0,
-                        "Under": 1.75
+                        "Over": 2.12,
+                        "Under": 1.65
                     }
                 }
             ],
             "2.5": [
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 2.08,
-                        "Under": 1.83
-                    }
-                },
                 {
                     "bookmaker": "sport888",
                     "totals": {
@@ -493,7 +467,7 @@
                     "bookmaker": "matchbook",
                     "totals": {
                         "Over": 1.75,
-                        "Under": 2.16
+                        "Under": 2.2
                     }
                 }
             ]
@@ -597,8 +571,8 @@
                 {
                     "bookmaker": "betonlineag",
                     "totals": {
-                        "Over": 1.85,
-                        "Under": 1.97
+                        "Over": 1.83,
+                        "Under": 2.0
                     }
                 }
             ]
@@ -655,8 +629,8 @@
                 {
                     "bookmaker": "betonlineag",
                     "totals": {
-                        "Over": 1.84,
-                        "Under": 1.98
+                        "Over": 1.82,
+                        "Under": 2.02
                     }
                 }
             ]
@@ -735,13 +709,6 @@
                         "Over": 1.88,
                         "Under": 2.07
                     }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.83,
-                        "Under": 2.0
-                    }
                 }
             ],
             "10.0": [
@@ -753,9 +720,16 @@
                     }
                 },
                 {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 1.95,
+                        "Under": 1.87
+                    }
+                },
+                {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.97,
+                        "Over": 1.96,
                         "Under": 1.92
                     }
                 },

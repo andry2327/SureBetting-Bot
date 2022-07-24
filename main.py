@@ -46,9 +46,16 @@ while(i_key in range(0, len(keys_list))):
             upcoming_matches_comb_elem = upcoming_match_elem
             upcoming_matches_comb_elem['points'] = upcoming_matches_points
             upcoming_matches_comb.append(upcoming_matches_comb_elem)
-        print_json_to_file(list(d), 'utility/C_simple.json')
+        print_json_to_file(list(upcoming_matches_comb), 'utility/C_simple.json')
 
-        
+        # get odds combinations which will return profits
+        for match in upcoming_matches_comb:
+            if (len(match['points']!=0)):
+                for points_key, points in match['points'].items():
+                    for points_elem in points:
+                        if(is_bookmakers_combinations_profitable(points_elem)):
+                            pass
+
 
         print('DONE')
 

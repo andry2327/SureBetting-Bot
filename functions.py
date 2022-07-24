@@ -125,5 +125,11 @@ def C_simple(list, k):
         comb_ext.append(c2)
     return comb_ext
 
+def is_quote_profitable(quote_1, quote_2):
+    return (1/quote_1)+(1/quote_2)<1
+
+def is_bookmakers_combinations_profitable(bookmakers_comb):
+    return is_quote_profitable(bookmakers_comb['totals']['Over_1'], bookmakers_comb['totals']['Under_2'])
+
 
 
