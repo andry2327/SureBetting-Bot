@@ -1,6 +1,7 @@
 from contextlib import nullcontext
 from requests import get
 import json
+from itertools import combinations
 
 # HTML API response 
 
@@ -102,5 +103,27 @@ def mathches_short_order_by_points(mathches_totals_odds_short):
             match['points'] = points
             mathches_short_ordered_by_points.append(match)
     return mathches_short_ordered_by_points
+
+def C_simple(list, k):
+    comb = combinations(list, k)
+    comb_ext = []
+    #create the 2 new couples
+    for couple in comb:
+        c1 = {}
+        c1['bookmaker_1'] = couple[0]['bookmaker']
+        c1['bookmaker_2'] = couple[1]['bookmaker']
+        c1['totals'] = {}
+        c1['totals']['Over_1/2'] = couple[0]['totals']['Over']
+        c1['totals']['Under_1/2'] = couple[1]['totals']['Under']
+        comb_ext.append(c1)
+        c2 = {}
+        c2['bookmaker_1'] = couple[0]['bookmaker']
+        c2['bookmaker_2'] = couple[1]['bookmaker']
+        c2['totals'] = {}
+        c2['totals']['Over_1/2'] = couple[1]['totals']['Over']
+        c2['totals']['Under_1/2'] = couple[0]['totals']['Under']
+        comb_ext.append(c2)
+    return comb_ext
+
 
 

@@ -1,0 +1,98 @@
+[
+    [
+        {
+            "bookmaker": "unibet",
+            "totals": {
+                "Over": 2.1,
+                "Under": 1.67
+            }
+        },
+        {
+            "bookmaker": "pinnacle",
+            "totals": {
+                "Over": 2.03,
+                "Under": 1.85
+            }
+        }
+    ],
+    [
+        {
+            "bookmaker": "unibet",
+            "totals": {
+                "Over": 2.1,
+                "Under": 1.67
+            }
+        },
+        {
+            "bookmaker": "mybookieag",
+            "totals": {
+                "Over": 1.74,
+                "Under": 1.99
+            }
+        }
+    ],
+    [
+        {
+            "bookmaker": "unibet",
+            "totals": {
+                "Over": 2.1,
+                "Under": 1.67
+            }
+        },
+        {
+            "bookmaker": "williamhill",
+            "totals": {
+                "Over": 1.8,
+                "Under": 1.91
+            }
+        }
+    ],
+    [
+        {
+            "bookmaker": "pinnacle",
+            "totals": {
+                "Over": 2.03,
+                "Under": 1.85
+            }
+        },
+        {
+            "bookmaker": "mybookieag",
+            "totals": {
+                "Over": 1.74,
+                "Under": 1.99
+            }
+        }
+    ],
+    [
+        {
+            "bookmaker": "pinnacle",
+            "totals": {
+                "Over": 2.03,
+                "Under": 1.85
+            }
+        },
+        {
+            "bookmaker": "williamhill",
+            "totals": {
+                "Over": 1.8,
+                "Under": 1.91
+            }
+        }
+    ],
+    [
+        {
+            "bookmaker": "mybookieag",
+            "totals": {
+                "Over": 1.74,
+                "Under": 1.99
+            }
+        },
+        {
+            "bookmaker": "williamhill",
+            "totals": {
+                "Over": 1.8,
+                "Under": 1.91
+            }
+        }
+    ]
+]

@@ -6,7 +6,7 @@ regions = ['eu'] # I only use regions which i have access to
 oddsFormat = ['decimal']
 markets = ['h2h', 'totals'] # I will only use these two type of bets to make it easier, beacuse they are binary bets (win/lose, over/under), you can find bets explaination in 'utility.md'
 
-i = 16
+i = 11
 five_min = 5*60
 
 # after done: while(1):
@@ -30,8 +30,7 @@ while(i in range(0, len(keys_list))):
             upcoming_matches_element = mathches_totals_odds_shortner(match, totals_odds)
             upcoming_matches.append(upcoming_matches_element)
 
-        a = mathches_short_order_by_points(upcoming_matches)
-        print_json_to_file(a, 'upcoming_matches.json')
+        
 
         i += 1
         sleep(five_min)

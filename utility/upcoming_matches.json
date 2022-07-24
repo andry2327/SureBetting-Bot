@@ -3,130 +3,74 @@
         "id": "2b85556b9ae3c43beb01810d3a8ce00a",
         "sport_key": "soccer_sweden_superettan",
         "sport_title": "Superettan - Sweden",
-        "commence_time": "2022-07-24T11:00:00Z",
+        "commence_time": "2022-07-24T11:00:02Z",
         "home_team": "IF Brommapojkarna",
         "away_team": "Norrby IF",
         "points": {
-            "2.5": [
+            "5.5": [
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.65,
-                        "Under": 2.12
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.65,
-                        "Under": 2.12
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.76,
-                        "Under": 2.16
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.69,
-                        "Under": 2.04
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.73,
-                        "Under": 2.0
+                        "Over": 1.68,
+                        "Under": 2.08
                     }
                 }
             ],
-            "2.75": [
+            "2.5": [
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 1.88,
+                        "Under": 1.83
+                    }
+                }
+            ],
+            "5.75": [
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.98,
-                        "Under": 1.89
-                    }
-                },
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.91,
-                        "Under": 1.9
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 1.99,
-                        "Under": 1.89
+                        "Over": 2.07,
+                        "Under": 1.79
                     }
                 }
             ]
         }
     },
     {
-        "id": "629a9c104bec8783e8d14007592cc635",
-        "sport_key": "soccer_germany_bundesliga2",
-        "sport_title": "Bundesliga 2 - Germany",
-        "commence_time": "2022-07-24T11:30:00Z",
-        "home_team": "Karlsruher SC",
-        "away_team": "1. FC Magdeburg",
+        "id": "c0b65ce6d8c9d0abe346f2d04f679b18",
+        "sport_key": "soccer_belgium_first_div",
+        "sport_title": "Belgium First Div",
+        "commence_time": "2022-07-24T11:30:07Z",
+        "home_team": "Club Brugge",
+        "away_team": "Genk",
         "points": {
             "2.5": [
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.58,
-                        "Under": 2.38
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.61,
-                        "Under": 2.41
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.58,
-                        "Under": 2.38
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.61,
-                        "Under": 2.19
+                        "Over": 1.96,
+                        "Under": 1.8
                     }
                 },
                 {
                     "bookmaker": "williamhill",
                     "totals": {
-                        "Over": 1.62,
-                        "Under": 2.2
+                        "Over": 1.6,
+                        "Under": 2.25
                     }
-                }
-            ],
-            "3.0": [
+                },
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 2.0,
-                        "Under": 1.89
+                        "Over": 2.03,
+                        "Under": 1.83
                     }
                 },
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 1.99,
-                        "Under": 1.89
+                        "Over": 2.0,
+                        "Under": 1.78
                     }
                 }
             ]
@@ -136,7 +80,7 @@
         "id": "c78a7206d512a74a8e7758455fcbb1a4",
         "sport_key": "soccer_germany_bundesliga2",
         "sport_title": "Bundesliga 2 - Germany",
-        "commence_time": "2022-07-24T11:30:00Z",
+        "commence_time": "2022-07-24T11:31:45Z",
         "home_team": "Arminia Bielefeld",
         "away_team": "Jahn Regensburg",
         "points": {
@@ -144,29 +88,15 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.71,
-                        "Under": 2.14
+                        "Over": 2.1,
+                        "Under": 1.67
                     }
                 },
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.85,
-                        "Under": 2.05
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.75,
-                        "Under": 2.08
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.71,
-                        "Under": 2.14
+                        "Over": 2.03,
+                        "Under": 1.85
                     }
                 },
                 {
@@ -179,50 +109,27 @@
                 {
                     "bookmaker": "williamhill",
                     "totals": {
-                        "Over": 1.73,
-                        "Under": 2.0
+                        "Over": 1.8,
+                        "Under": 1.91
                     }
                 }
             ]
         }
     },
     {
-        "id": "c0b65ce6d8c9d0abe346f2d04f679b18",
-        "sport_key": "soccer_belgium_first_div",
-        "sport_title": "Belgium First Div",
-        "commence_time": "2022-07-24T11:30:00Z",
-        "home_team": "Club Brugge",
-        "away_team": "Genk",
+        "id": "629a9c104bec8783e8d14007592cc635",
+        "sport_key": "soccer_germany_bundesliga2",
+        "sport_title": "Bundesliga 2 - Germany",
+        "commence_time": "2022-07-24T11:33:07Z",
+        "home_team": "Karlsruher SC",
+        "away_team": "1. FC Magdeburg",
         "points": {
             "3.5": [
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 2.4,
-                        "Under": 1.58
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 2.37,
-                        "Under": 1.6
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 2.4,
-                        "Under": 1.58
-                    }
-                }
-            ],
-            "2.5": [
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.53,
-                        "Under": 2.38
+                        "Over": 1.67,
+                        "Under": 2.1
                     }
                 }
             ],
@@ -230,48 +137,17 @@
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.9,
-                        "Under": 1.97
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 1.91,
-                        "Under": 1.97
+                        "Over": 2.05,
+                        "Under": 1.83
                     }
                 }
-            ]
-        }
-    },
-    {
-        "id": "22c3bd0abf2b6bb26e0bcade9d984f82",
-        "sport_key": "soccer_germany_bundesliga2",
-        "sport_title": "Bundesliga 2 - Germany",
-        "commence_time": "2022-07-24T11:30:00Z",
-        "home_team": "Hamburger SV",
-        "away_team": "Hansa Rostock",
-        "points": {
+            ],
             "2.5": [
                 {
-                    "bookmaker": "unibet",
+                    "bookmaker": "mybookieag",
                     "totals": {
                         "Over": 1.57,
-                        "Under": 2.4
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.53,
-                        "Under": 2.34
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.57,
-                        "Under": 2.4
+                        "Under": 2.25
                     }
                 },
                 {
@@ -281,20 +157,39 @@
                         "Under": 2.3
                     }
                 }
-            ],
-            "3.0": [
+            ]
+        }
+    },
+    {
+        "id": "22c3bd0abf2b6bb26e0bcade9d984f82",
+        "sport_key": "soccer_germany_bundesliga2",
+        "sport_title": "Bundesliga 2 - Germany",
+        "commence_time": "2022-07-24T11:34:11Z",
+        "home_team": "Hamburger SV",
+        "away_team": "Hansa Rostock",
+        "points": {
+            "2.5": [
                 {
-                    "bookmaker": "pinnacle",
+                    "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.94,
-                        "Under": 1.94
+                        "Over": 1.72,
+                        "Under": 2.02
                     }
                 },
                 {
-                    "bookmaker": "matchbook",
+                    "bookmaker": "williamhill",
                     "totals": {
-                        "Over": 1.95,
-                        "Under": 1.94
+                        "Over": 1.62,
+                        "Under": 2.2
+                    }
+                }
+            ],
+            "2.75": [
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.96,
+                        "Under": 1.92
                     }
                 }
             ],
@@ -321,22 +216,22 @@
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.95,
-                        "Under": 1.85
+                        "Over": 2.02,
+                        "Under": 1.8
                     }
                 },
                 {
                     "bookmaker": "sport888",
                     "totals": {
-                        "Over": 1.95,
-                        "Under": 1.85
+                        "Over": 2.02,
+                        "Under": 1.8
                     }
                 },
                 {
                     "bookmaker": "onexbet",
                     "totals": {
-                        "Over": 2.04,
-                        "Under": 1.86
+                        "Over": 2.05,
+                        "Under": 1.85
                     }
                 },
                 {
@@ -349,15 +244,15 @@
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 2.06,
-                        "Under": 1.84
+                        "Over": 2.05,
+                        "Under": 1.85
                     }
                 },
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 2.06,
-                        "Under": 1.86
+                        "Over": 2.04,
+                        "Under": 1.89
                     }
                 },
                 {
@@ -396,8 +291,8 @@
                 {
                     "bookmaker": "onexbet",
                     "totals": {
-                        "Over": 1.88,
-                        "Under": 2.02
+                        "Over": 1.76,
+                        "Under": 2.16
                     }
                 },
                 {
@@ -406,28 +301,391 @@
                         "Over": 1.73,
                         "Under": 2.0
                     }
-                },
+                }
+            ],
+            "2.75": [
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.86,
-                        "Under": 2.03
+                        "Over": 1.97,
+                        "Under": 1.92
                     }
                 },
                 {
                     "bookmaker": "matchbook",
                     "totals": {
-                        "Over": 1.88,
-                        "Under": 2.02
+                        "Over": 1.97,
+                        "Under": 1.9
                     }
-                }
-            ],
-            "2.75": [
+                },
                 {
                     "bookmaker": "betonlineag",
                     "totals": {
+                        "Over": 2.0,
+                        "Under": 1.83
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "5f67ee1459d76fa4c19b6697c9362a00",
+        "sport_key": "soccer_switzerland_superleague",
+        "sport_title": "Swiss Superleague",
+        "commence_time": "2022-07-24T12:15:00Z",
+        "home_team": "FC Basel",
+        "away_team": "Servette",
+        "points": {
+            "2.5": [
+                {
+                    "bookmaker": "williamhill",
+                    "totals": {
+                        "Over": 1.62,
+                        "Under": 2.2
+                    }
+                },
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.62,
+                        "Under": 2.25
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.58,
+                        "Under": 2.3
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.58,
+                        "Under": 2.3
+                    }
+                }
+            ],
+            "3.0": [
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 2.06,
+                        "Under": 1.83
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.83
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "f56150639eda77ee0565d291ab577924",
+        "sport_key": "soccer_sweden_allsvenskan",
+        "sport_title": "Allsvenskan - Sweden",
+        "commence_time": "2022-07-24T13:00:00Z",
+        "home_team": "IFK Värnamo",
+        "away_team": "AIK",
+        "points": {
+            "2.5": [
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
                         "Over": 1.98,
+                        "Under": 1.83
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.98,
+                        "Under": 1.83
+                    }
+                },
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 2.04,
+                        "Under": 1.86
+                    }
+                },
+                {
+                    "bookmaker": "williamhill",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.73
+                    }
+                },
+                {
+                    "bookmaker": "matchbook",
+                    "totals": {
+                        "Over": 2.1,
                         "Under": 1.84
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 2.02,
+                        "Under": 1.82
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "6811d60dc3293ceb5e918f1dcd3060b2",
+        "sport_key": "soccer_finland_veikkausliiga",
+        "sport_title": "Veikkausliiga - Finland",
+        "commence_time": "2022-07-24T13:00:00Z",
+        "home_team": "FC Lahti",
+        "away_team": "SJK Seinäjoki",
+        "points": {
+            "2.5": [
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.89,
+                        "Under": 1.99
+                    }
+                },
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 1.78,
+                        "Under": 1.93
+                    }
+                },
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.95,
+                        "Under": 1.95
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.85,
+                        "Under": 1.95
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.85,
+                        "Under": 1.95
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.83,
+                        "Under": 2.0
+                    }
+                },
+                {
+                    "bookmaker": "matchbook",
+                    "totals": {
+                        "Over": 1.9,
+                        "Under": 2.02
+                    }
+                },
+                {
+                    "bookmaker": "williamhill",
+                    "totals": {
+                        "Over": 1.85,
+                        "Under": 1.85
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "aa27d5624b6ac285e1fb7117c5a25bc2",
+        "sport_key": "soccer_sweden_allsvenskan",
+        "sport_title": "Allsvenskan - Sweden",
+        "commence_time": "2022-07-24T13:00:00Z",
+        "home_team": "Helsingborgs IF",
+        "away_team": "GIF Sundsvall",
+        "points": {
+            "2.5": [
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.82,
+                        "Under": 2.0
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.82,
+                        "Under": 2.0
+                    }
+                },
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 2.02
+                    }
+                },
+                {
+                    "bookmaker": "williamhill",
+                    "totals": {
+                        "Over": 1.85,
+                        "Under": 1.85
+                    }
+                },
+                {
+                    "bookmaker": "matchbook",
+                    "totals": {
+                        "Over": 1.89,
+                        "Under": 2.02
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.84,
+                        "Under": 1.98
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "7c0940eb7ad3e81848e2ab2ad5679028",
+        "sport_key": "soccer_finland_veikkausliiga",
+        "sport_title": "Veikkausliiga - Finland",
+        "commence_time": "2022-07-24T13:00:00Z",
+        "home_team": "KuPS Kuopio",
+        "away_team": "HIFK",
+        "points": {
+            "3.0": [
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 2.03,
+                        "Under": 1.85
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.83
+                    }
+                },
+                {
+                    "bookmaker": "matchbook",
+                    "totals": {
+                        "Over": 2.02,
+                        "Under": 1.83
+                    }
+                }
+            ],
+            "2.5": [
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.65,
+                        "Under": 2.38
+                    }
+                },
+                {
+                    "bookmaker": "williamhill",
+                    "totals": {
+                        "Over": 1.6,
+                        "Under": 2.25
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.6,
+                        "Under": 2.33
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.6,
+                        "Under": 2.33
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "3f06d81c2e2e86b530d1f56fa52eb409",
+        "sport_key": "soccer_sweden_superettan",
+        "sport_title": "Superettan - Sweden",
+        "commence_time": "2022-07-24T13:00:00Z",
+        "home_team": "Örebro SK",
+        "away_team": "Utsiktens BK",
+        "points": {
+            "2.5": [
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.96,
+                        "Under": 1.84
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.96,
+                        "Under": 1.84
+                    }
+                },
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.99,
+                        "Under": 1.91
+                    }
+                },
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 1.86,
+                        "Under": 1.84
+                    }
+                },
+                {
+                    "bookmaker": "williamhill",
+                    "totals": {
+                        "Over": 1.85,
+                        "Under": 1.85
+                    }
+                },
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.98,
+                        "Under": 1.89
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.92,
+                        "Under": 1.89
+                    }
+                },
+                {
+                    "bookmaker": "matchbook",
+                    "totals": {
+                        "Over": 2.02,
+                        "Under": 1.91
                     }
                 }
             ]

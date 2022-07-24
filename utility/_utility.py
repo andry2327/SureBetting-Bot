@@ -17,7 +17,19 @@ print(result)  # print raw json
 for item in result:
     print("{0} : {1}".format(item, result[item]))
 
+
 # for debugging
 print_json_to_file(upcoming_matches, 'totals_odds.json')
 a = mathches_short_order_by_points(upcoming_matches)
 print_json_to_file(a, 'totals_odds_ordered.json')
+
+upcoming_matches = mathches_short_order_by_points(upcoming_matches)
+c = combinations(upcoming_matches[0]["points"]["2.5"], 2)
+print_json_to_file(list(c), 'utility/combination.json')
+
+upcoming_matches = mathches_short_order_by_points(upcoming_matches)
+print_json_to_file(upcoming_matches, 'utility/upcoming_matches.json')
+c = combinations(upcoming_matches[2]["points"]["2.5"], 2)
+print_json_to_file(list(c), 'utility/combination.json')
+d = C_simple(upcoming_matches[2]["points"]["2.5"], 2)
+print_json_to_file(list(d), 'utility/C_simple.json')
