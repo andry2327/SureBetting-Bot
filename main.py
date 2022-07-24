@@ -2,22 +2,24 @@ from time import sleep
 from my_API_keys import keys_list
 from functions import *
 
-regions = ['eu'] # I only use regions which i have access to
+regions = ['eu'] # I only use regions which i_key have access to
 oddsFormat = ['decimal']
 markets = ['h2h', 'totals'] # I will only use these two type of bets to make it easier, beacuse they are binary bets (win/lose, over/under), you can find bets explaination in 'utility.md'
 
-i = 11
+i_key = 10
+i_deb = 11 # for debugging
 five_min = 5*60
 
 # after done: while(1):
 
 # get live event odds
-while(i in range(0, len(keys_list))):
-    response = get_API_response(keys_list[i]) # API call cost = 0
+while(i_key in range(0, len(keys_list))):
+    response = get_API_response(keys_list[i_key])  # API call cost = 0
     if(remaning_requests(response) <= 0):
-        i += 1  # use next API key
+        i_key += 1  # use next API key
     else:
-        response = get_API_response_Odds(keys_list[i], regions[0], markets[1]) # totals odds (over/under), API call cost = 1
+        # totals odds (over/under), API call cost = 1
+        response = get_API_response_Odds(keys_list[i_key], regions[0], markets[1])
         matches_full = response_to_json(response)
 
         # for each upcoming event, get its bookmakers and their O/U (totals) odds
@@ -29,10 +31,28 @@ while(i in range(0, len(keys_list))):
                 totals_odds.append(bookmaker_totals)
             upcoming_matches_element = mathches_totals_odds_shortner(match, totals_odds)
             upcoming_matches.append(upcoming_matches_element)
+        upcoming_matches = mathches_short_order_by_points(upcoming_matches)
+        print_json_to_file(upcoming_matches, 'utility/upcoming_matches.json')
+
+        # for each upcoming match, for each totals (U/O) points, create bookmakers couples
+        upcoming_matches_comb = []
+        for upcoming_match_elem in upcoming_matches:
+            upcoming_matches_points = {}
+            for points_key, points in upcoming_match_elem['points'].items(): # ex. "2.5"      
+                upcoming_matches_points_elem = [] # ex.'2.5': [...this one....]
+                if (len(points) > 1):  # I can only create bookmakers couples if there are 2 ore more
+                    points_elem = C_simple(points, 2)
+                    upcoming_matches_points[str(points_key)] = points_elem
+            upcoming_matches_comb_elem = upcoming_match_elem
+            upcoming_matches_comb_elem['points'] = upcoming_matches_points
+            upcoming_matches_comb.append(upcoming_matches_comb_elem)
+        print_json_to_file(list(d), 'utility/C_simple.json')
 
         
 
-        i += 1
+        print('DONE')
+
+        i_key += 1
         sleep(five_min)
         
 
