@@ -39,8 +39,8 @@ while(i_key in range(0, len(keys_list))):
         upcoming_matches_comb = []
         for upcoming_match_elem in upcoming_matches:
             upcoming_matches_points = {}
-            for points_key, points in upcoming_match_elem['points'].items(): # ex. "2.5"      
-                upcoming_matches_points_elem = [] # ex.'2.5': [...this one....]
+            for points_key, points in upcoming_match_elem['points'].items():   
+                upcoming_matches_points_elem = [] 
                 if (len(points) > 1):  # I can only create bookmakers couples if there are 2 ore more
                     points_elem = C_simple(points, 2)
                     upcoming_matches_points[str(points_key)] = points_elem
@@ -49,8 +49,6 @@ while(i_key in range(0, len(keys_list))):
             upcoming_matches_comb.append(upcoming_matches_comb_elem)
         print_json_to_file(list(upcoming_matches_comb), 'utility/C_simple.json')
 
-        upcoming_matches_comb = get_data_from_json('utility/profittable_matches.json') # DEBUG
-
         # get profittable matches
         for match in upcoming_matches_comb:
             if (match['points']):
@@ -58,7 +56,6 @@ while(i_key in range(0, len(keys_list))):
                     for points_elem in points:
                         if(is_bookmakers_combinations_profitable(points_elem)):
                             write_to_file_profittable_matches(match, points_key, points_elem)
-                            print('MATCH FOUND')
                             profittable_matches_count += 1
 
 
