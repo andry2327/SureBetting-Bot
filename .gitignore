@@ -2,3 +2,7 @@
 /response_examples
 /__pycache__
 /temp_log.json
+/log.txt
+/profittable_bets.txt
+/temp.py
+/profittable_matches.json

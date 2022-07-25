@@ -6,9 +6,10 @@ regions = ['eu'] # I only use regions which i_key have access to
 oddsFormat = ['decimal']
 markets = ['h2h', 'totals'] # I will only use these two type of bets to make it easier, beacuse they are binary bets (win/lose, over/under), you can find bets explaination in 'utility.md'
 
-i_key = 10
+i_key = 4
 i_deb = 11 # for debugging
 five_min = 5*60
+profittable_matches_count = 0
 
 # after done: while(1):
 
@@ -48,13 +49,17 @@ while(i_key in range(0, len(keys_list))):
             upcoming_matches_comb.append(upcoming_matches_comb_elem)
         print_json_to_file(list(upcoming_matches_comb), 'utility/C_simple.json')
 
-        # get odds combinations which will return profits
+        upcoming_matches_comb = get_data_from_json('utility/profittable_matches.json') # DEBUG
+
+        # get profittable matches
         for match in upcoming_matches_comb:
-            if (len(match['points']!=0)):
+            if (match['points']):
                 for points_key, points in match['points'].items():
                     for points_elem in points:
                         if(is_bookmakers_combinations_profitable(points_elem)):
-                            pass
+                            write_to_file_profittable_matches(match, points_key, points_elem)
+                            print('MATCH FOUND')
+                            profittable_matches_count += 1
 
 
         print('DONE')

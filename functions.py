@@ -43,7 +43,7 @@ def remaning_requests(response):
     headers = response.headers
     return int(headers['X-Requests-Remaining'])
 
-# print json to file 'temp_log.json' with indent
+# print/get json to file 'temp_log.json' with indent
 
 def print_json_to_file(json_object):
     with open('temp_log.json', 'w', encoding='utf8') as outfile:
@@ -52,6 +52,11 @@ def print_json_to_file(json_object):
 def print_json_to_file(json_object, output_file):
     with open(output_file, 'w', encoding='utf8') as outfile:
         json.dump(json_object, outfile, indent=4, ensure_ascii=False)
+
+def get_data_from_json(json_path):
+    with open(json_path, 'r') as j:
+        contents = json.loads(j.read())
+    return contents
 
 
 # get a shorter json format from the full json upcoming matches api response, for totals odds
@@ -131,5 +136,32 @@ def is_quote_profitable(quote_1, quote_2):
 def is_bookmakers_combinations_profitable(bookmakers_comb):
     return is_quote_profitable(bookmakers_comb['totals']['Over_1'], bookmakers_comb['totals']['Under_2'])
 
+def get_profits_percentage(quote_1, quote_2):
+    return float(round((1 - ((1/quote_1)+(1/quote_2)))*100, 2))
 
+def write_to_file_profittable_matches(match, points_key, points_elem):
 
+    f = open('profittable_bets.txt', 'a', encoding='utf-8')
+
+    f.write('SPORT INFO: ')
+    f.write(str(match['sport_title']))
+    f.write('\n')
+    f.write('MATCH: ')
+    f.write(str(match['home_team']) + ' vs ' + match['away_team'])
+    f.write('\n')
+    f.write('DATE, TIME: ')
+    f.write(str(match['commence_time']))
+    f.write('\n\n')
+    f.write('BET:\n')
+    f.write('   bet OVER ' + str(points_key) + ' on bookmaker ' +
+            str(points_elem['bookmaker_1']).upper() + ' (quote: ' + str(points_elem['totals']['Over_1']) + ')')
+    f.write('\n')
+    f.write('   bet UNDER ' + str(points_key) + ' on bookmaker ' +
+            str(points_elem['bookmaker_2']).upper() + ' (quote: ' + str(points_elem['totals']['Under_2']) + ')')
+    f.write('\n\n')
+    f.write('PROFIT: ')
+    f.write(str(get_profits_percentage(
+        float(points_elem['totals']['Over_1']), float(points_elem['totals']['Under_2']))) + '%')
+    f.write('\n\n')
+    f.write('----------------------------------------------------------------------------------------')
+    f.write('\n\n')
