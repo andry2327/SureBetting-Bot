@@ -1,202 +1,29 @@
 [
     {
-        "id": "26b033c4cc0869463811193ba657349e",
-        "sport_key": "soccer_finland_veikkausliiga",
-        "sport_title": "Veikkausliiga - Finland",
-        "commence_time": "2022-07-25T15:01:42Z",
-        "home_team": "FC Inter Turku",
-        "away_team": "FC Honka Espoo",
+        "id": "a39422f8f33839f4a4c271bd2ab9220b",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-27T16:36:00Z",
+        "home_team": "Philadelphia Phillies",
+        "away_team": "Atlanta Braves",
         "points": {
-            "1.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 2.55,
-                        "Under": 1.48
-                    }
-                }
-            ],
-            "1.25": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.08,
-                        "Under": 1.81
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "8086ce4b488ca03036658fda9594285b",
-        "sport_key": "soccer_denmark_superliga",
-        "sport_title": "Denmark Superliga",
-        "commence_time": "2022-07-25T17:00:00Z",
-        "home_team": "AC Horsens",
-        "away_team": "Lyngby",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.92,
-                        "Under": 1.89
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.92,
-                        "Under": 1.89
-                    }
-                },
+            "8.5": [
                 {
                     "bookmaker": "onexbet",
                     "totals": {
-                        "Over": 1.93,
-                        "Under": 1.96
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.91,
-                        "Under": 1.8
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.95,
-                        "Under": 1.93
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 1.98,
-                        "Under": 1.93
-                    }
-                },
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.9,
-                        "Under": 1.9
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "84146c1fd79675f1b162db14bffb12b1",
-        "sport_key": "soccer_sweden_allsvenskan",
-        "sport_title": "Allsvenskan - Sweden",
-        "commence_time": "2022-07-25T17:00:00Z",
-        "home_team": "Varbergs BoIS",
-        "away_team": "Hammarby IF",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.68,
-                        "Under": 2.18
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.68,
-                        "Under": 2.18
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.75,
-                        "Under": 2.19
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.67,
+                        "Over": 1.85,
                         "Under": 2.1
                     }
-                }
-            ],
-            "2.75": [
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 1.95,
-                        "Under": 1.94
-                    }
                 },
                 {
-                    "bookmaker": "betonlineag",
+                    "bookmaker": "mybookieag",
                     "totals": {
-                        "Over": 1.9,
-                        "Under": 1.9
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.95,
-                        "Under": 1.93
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "4308705b6e79998e41dbcf2d8ff5c7d4",
-        "sport_key": "soccer_sweden_allsvenskan",
-        "sport_title": "Allsvenskan - Sweden",
-        "commence_time": "2022-07-25T17:00:00Z",
-        "home_team": "IFK Norrkoping",
-        "away_team": "IFK Goteborg",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.77,
-                        "Under": 2.06
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.77,
-                        "Under": 2.06
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.77,
-                        "Under": 2.08
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.73,
+                        "Over": 1.83,
                         "Under": 2.0
                     }
                 }
             ],
-            "2.75": [
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 2.04,
-                        "Under": 1.9
-                    }
-                },
+            "9.0": [
                 {
                     "bookmaker": "betonlineag",
                     "totals": {
@@ -207,318 +34,458 @@
                 {
                     "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.99,
-                        "Under": 1.9
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "7f2ed02e47d8ce755e3f8a2d9971c894",
-        "sport_key": "soccer_poland_ekstraklasa",
-        "sport_title": "Ekstraklasa - Poland",
-        "commence_time": "2022-07-25T17:00:00Z",
-        "home_team": "Stal Mielec",
-        "away_team": "Radomiak Radom",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 2.2,
-                        "Under": 1.67
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 2.31,
-                        "Under": 1.65
+                        "Over": 2.02,
+                        "Under": 1.88
                     }
                 },
                 {
                     "bookmaker": "sport888",
                     "totals": {
-                        "Over": 2.2,
-                        "Under": 1.67
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 2.25,
-                        "Under": 1.62
-                    }
-                }
-            ],
-            "2.25": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.96,
-                        "Under": 1.92
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "63e16faec0e95469a808dbd421de4a22",
-        "sport_key": "soccer_sweden_superettan",
-        "sport_title": "Superettan - Sweden",
-        "commence_time": "2022-07-25T17:00:00Z",
-        "home_team": "Trelleborgs FF",
-        "away_team": "Skövde AIK",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.73,
-                        "Under": 2.1
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.73,
-                        "Under": 2.1
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.78,
-                        "Under": 2.15
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.71,
-                        "Under": 2.02
-                    }
-                },
-                {
-                    "bookmaker": "williamhill",
-                    "totals": {
-                        "Over": 1.7,
-                        "Under": 2.05
-                    }
-                }
-            ],
-            "2.75": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.93,
-                        "Under": 1.94
-                    }
-                },
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.9,
-                        "Under": 1.91
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 1.96,
-                        "Under": 1.93
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "9dba8abdf7e3a6f8cbb0f3c359e511ab",
-        "sport_key": "soccer_argentina_primera_division",
-        "sport_title": "Primera División - Argentina",
-        "commence_time": "2022-07-25T19:30:00Z",
-        "home_team": "San Lorenzo",
-        "away_team": "Talleres",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 2.51,
-                        "Under": 1.59
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 2.43,
-                        "Under": 1.54
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 2.48,
-                        "Under": 1.56
+                        "Over": 1.97,
+                        "Under": 1.86
                     }
                 },
                 {
                     "bookmaker": "unibet",
                     "totals": {
-                        "Over": 2.48,
-                        "Under": 1.56
-                    }
-                }
-            ],
-            "2.0": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 2.0
-                    }
-                },
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 2.04
-                    }
-                },
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.9,
-                        "Under": 1.91
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "a9019b0c8a8fb66797720a942e6b371e",
-        "sport_key": "soccer_argentina_primera_division",
-        "sport_title": "Primera División - Argentina",
-        "commence_time": "2022-07-25T22:00:00Z",
-        "home_team": "Banfield",
-        "away_team": "Argentinos Juniors",
-        "points": {
-            "2.5": [
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 2.51,
-                        "Under": 1.59
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 2.44,
-                        "Under": 1.54
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 2.55,
-                        "Under": 1.53
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 2.55,
-                        "Under": 1.53
-                    }
-                }
-            ],
-            "2.25": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.11,
-                        "Under": 1.79
-                    }
-                }
-            ],
-            "2.0": [
-                {
-                    "bookmaker": "matchbook",
-                    "totals": {
-                        "Over": 1.83,
-                        "Under": 2.06
-                    }
-                },
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.83,
-                        "Under": 2.0
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "ce402a4adbe013bde3c2936a098f1f07",
-        "sport_key": "soccer_brazil_serie_b",
-        "sport_title": "Brazil Série B",
-        "commence_time": "2022-07-25T22:00:00Z",
-        "home_team": "Criciuma",
-        "away_team": "CSA",
-        "points": {
-            "1.5": [
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.51,
-                        "Under": 2.4
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.57,
-                        "Under": 2.52
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.56,
-                        "Under": 2.33
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.56,
-                        "Under": 2.33
-                    }
-                }
-            ],
-            "2.0": [
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.01,
+                        "Over": 1.98,
                         "Under": 1.87
                     }
                 },
                 {
-                    "bookmaker": "matchbook",
+                    "bookmaker": "intertops",
                     "totals": {
-                        "Over": 1.99,
-                        "Under": 1.8
+                        "Over": 2.0,
+                        "Under": 1.83
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "9f712ccf0655ef26edea17f259943e40",
+        "sport_key": "soccer_norway_eliteserien",
+        "sport_title": "Eliteserien - Norway",
+        "commence_time": "2022-07-27T17:00:00Z",
+        "home_team": "Sandefjord",
+        "away_team": "Kristiansund BK",
+        "points": {
+            "3.5": [
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 2.28,
+                        "Under": 1.63
+                    }
+                },
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 2.23,
+                        "Under": 1.67
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 2.28,
+                        "Under": 1.63
+                    }
+                }
+            ],
+            "2.5": [
+                {
+                    "bookmaker": "williamhill",
+                    "totals": {
+                        "Over": 1.5,
+                        "Under": 2.5
+                    }
+                }
+            ],
+            "3.25": [
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 2.03,
+                        "Under": 1.86
+                    }
+                }
+            ],
+            "3.0": [
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.82,
+                        "Under": 2.02
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "7565b21b10e1758e2457c5460662cd08",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-27T17:11:00Z",
+        "home_team": "Detroit Tigers",
+        "away_team": "San Diego Padres",
+        "points": {
+            "7.0": [
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.82,
+                        "Under": 2.0
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.84,
+                        "Under": 1.98
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.85,
+                        "Under": 1.98
+                    }
+                },
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 1.95
+                    }
+                },
+                {
+                    "bookmaker": "intertops",
+                    "totals": {
+                        "Over": 1.83,
+                        "Under": 2.0
+                    }
+                }
+            ],
+            "7.5": [
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 2.08,
+                        "Under": 1.87
+                    }
+                },
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 2.07,
+                        "Under": 1.83
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "1797c5561bc410d7221a29727dcd7449",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-27T18:11:00Z",
+        "home_team": "Kansas City Royals",
+        "away_team": "Los Angeles Angels",
+        "points": {
+            "8.5": [
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.93,
+                        "Under": 2.01
                     }
                 },
                 {
                     "bookmaker": "betonlineag",
                     "totals": {
-                        "Over": 2.06,
-                        "Under": 1.78
+                        "Over": 1.9,
+                        "Under": 1.9
+                    }
+                },
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.89,
+                        "Under": 1.99
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.94,
+                        "Under": 1.9
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.93,
+                        "Under": 1.89
+                    }
+                },
+                {
+                    "bookmaker": "intertops",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 1.95
+                    }
+                }
+            ],
+            "9.0": [
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.83
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "79d8aa5fc84b218e8569325b0cc58193",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-27T18:11:00Z",
+        "home_team": "Milwaukee Brewers",
+        "away_team": "Minnesota Twins",
+        "points": {
+            "7.5": [
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 2.08
+                    }
+                }
+            ],
+            "8.0": [
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.9,
+                        "Under": 1.91
+                    }
+                },
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.98,
+                        "Under": 1.91
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.95,
+                        "Under": 1.87
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.96,
+                        "Under": 1.88
+                    }
+                },
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 1.95,
+                        "Under": 1.87
+                    }
+                },
+                {
+                    "bookmaker": "intertops",
+                    "totals": {
+                        "Over": 1.91,
+                        "Under": 1.91
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "8b42df56d1682e4da251658e5b17df3c",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-27T19:11:00Z",
+        "home_team": "Colorado Rockies",
+        "away_team": "Chicago White Sox",
+        "points": {
+            "11.5": [
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.98,
+                        "Under": 1.84
+                    }
+                },
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.98,
+                        "Under": 1.96
+                    }
+                },
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.95,
+                        "Under": 1.93
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.92,
+                        "Under": 1.9
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.93,
+                        "Under": 1.91
+                    }
+                },
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.83
+                    }
+                },
+                {
+                    "bookmaker": "intertops",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.83
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "0e7b96f757ff7e9af3154d7471d21d48",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-27T19:11:00Z",
+        "home_team": "Los Angeles Dodgers",
+        "away_team": "Washington Nationals",
+        "points": {
+            "9.0": [
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 2.02,
+                        "Under": 1.81
+                    }
+                },
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.83
+                    }
+                },
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.89
+                    }
+                }
+            ],
+            "8.5": [
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.83,
+                        "Under": 2.12
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.83,
+                        "Under": 2.02
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.82,
+                        "Under": 2.02
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "bc845f49adc65b4254c24340bc13439c",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-27T19:38:00Z",
+        "home_team": "Oakland Athletics",
+        "away_team": "Houston Astros",
+        "points": {
+            "7.5": [
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 2.15,
+                        "Under": 1.81
+                    }
+                }
+            ],
+            "7.0": [
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.89,
+                        "Under": 1.92
+                    }
+                },
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 2.03
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.81,
+                        "Under": 2.04
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.8,
+                        "Under": 2.04
+                    }
+                },
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 1.95
+                    }
+                },
+                {
+                    "bookmaker": "intertops",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 1.95
                     }
                 }
             ]

@@ -139,7 +139,7 @@ def is_bookmakers_combinations_profitable(bookmakers_comb):
 def get_profits_percentage(quote_1, quote_2):
     return float(round((1 - ((1/quote_1)+(1/quote_2)))*100, 2))
 
-def write_to_file_profittable_matches(match, points_key, points_elem):
+def write_to_file_profittable_matches(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT):
 
     f = open('profittable_bets.txt', 'a', encoding='utf-8')
 
@@ -152,16 +152,27 @@ def write_to_file_profittable_matches(match, points_key, points_elem):
     f.write('DATE, TIME: ')
     f.write(str(match['commence_time']))
     f.write('\n\n')
+    f.write('PROFIT: ')
+    f.write(str(get_profits_percentage(
+        float(points_elem['totals']['Over_1']), float(points_elem['totals']['Under_2']))) + '%')
+    f.write('\n')
     f.write('BET:\n')
     f.write('   bet OVER ' + str(points_key) + ' on bookmaker ' +
             str(points_elem['bookmaker_1']).upper() + ' (quote: ' + str(points_elem['totals']['Over_1']) + ')')
     f.write('\n')
+    f.write('   STAKE: bet ' + str(round(stake_A, 2)) +
+            '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€')
+    f.write('\n\n')
     f.write('   bet UNDER ' + str(points_key) + ' on bookmaker ' +
             str(points_elem['bookmaker_2']).upper() + ' (quote: ' + str(points_elem['totals']['Under_2']) + ')')
-    f.write('\n\n')
-    f.write('PROFIT: ')
-    f.write(str(get_profits_percentage(
-        float(points_elem['totals']['Over_1']), float(points_elem['totals']['Under_2']))) + '%')
+    f.write('\n')
+    f.write('   STAKE: bet ' + str(round(stake_B, 2)) +
+            '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€')
     f.write('\n\n')
     f.write('----------------------------------------------------------------------------------------')
     f.write('\n\n')
+
+
+# bet amount
+def get_stake_from_quote(quote, win_amount):
+    return win_amount/quote
