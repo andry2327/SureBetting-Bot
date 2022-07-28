@@ -6,8 +6,7 @@ regions = ['eu'] # I only use regions which i_key have access to
 oddsFormat = ['decimal']
 markets = ['h2h', 'totals'] # I will only use these two type of bets to make it easier, beacuse they are binary bets (win/lose, over/under), you can find bets explaination in 'utility.md'
 
-i_key = 8
-i_deb = 11 # for debugging
+i_key = 0
 five_min = 5*60
 profittable_matches_count = 0
 EURO_STARTING_BALANCE = 10000  
