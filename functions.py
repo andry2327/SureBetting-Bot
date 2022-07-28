@@ -171,3 +171,5 @@ def write_to_file_profittable_matches(match, points_key, points_elem, stake_A, s
 # bet amount
 def get_stake_from_quote(quote, win_amount):
     return win_amount/quote
+
+
