@@ -1,4 +1,5 @@
 from time import sleep
+from datetime import datetime
 from my_API_keys import keys_list
 from functions import *
 
@@ -9,10 +10,13 @@ markets = ['h2h', 'totals'] # I will only use these two type of bets to make it 
 i_key = 0
 five_min = 5*60
 profittable_matches_count = 0
+API_response_fetch = 0
 EURO_STARTING_BALANCE = 10000  
 BALANCE_AMOUNT_RATIO = 0.1  # for each bet, the stake will be 1/10 of current balance
 
 EURO_BALANCE = EURO_STARTING_BALANCE
+open('log.txt', 'w').close()
+f_log = open('log.txt', 'a')
 
 while(1):
     # get live event odds
@@ -23,8 +27,10 @@ while(1):
         else:
             # totals odds (over/under), API call cost = 1
             response = get_API_response_Odds(keys_list[i_key], regions[0], markets[1])
+            API_response_fetch += 1
             matches_full = response_to_json(response)
-
+            datetime_format(datetime.now())
+            write_log(f_log, 'API fetch N: ' + str(API_response_fetch))
             # for each upcoming event, get its bookmakers and their O/U (totals) odds
             upcoming_matches = []
             for match in matches_full:
@@ -60,15 +66,18 @@ while(1):
                                 stake_A = get_stake_from_quote( points_elem['totals']['Over_1'], WIN_AMOUNT)
                                 stake_B = get_stake_from_quote(points_elem['totals']['Under_2'], WIN_AMOUNT)
                                 EURO_BALANCE -= stake_A + stake_B
-                                write_to_file_profittable_matches(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT)
+                                text_match = create_text(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT)
+                                write_to_file_profittable_matches(text_match)
                                 profittable_matches_count += 1
+                                write_log(f_log, 'MATCH FOUND: ' +'\n\n' + text_match)
+                                write_log(f_log, 'FOUND MATCHES AMOUNT: ' +
+                                          str(profittable_matches_count))
                                 # when the match ends ...
                                 profit = WIN_AMOUNT - (stake_A + stake_B)
                                 EURO_BALANCE += stake_A + stake_B
                                 EURO_BALANCE += profit
             i_key += 1
+            write_log(f_log, 'END API fetch N: ' + str(API_response_fetch))
             sleep(five_min)
-        
 
-    
-    
+f_log.close()

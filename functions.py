@@ -1,7 +1,13 @@
 from contextlib import nullcontext
+from datetime import datetime
 from requests import get
 import json
 from itertools import combinations
+
+# time format
+
+def datetime_format(datetime):
+    return str(datetime.strftime("%d/%m/%Y %H:%M:%S"))
 
 # HTML API response 
 
@@ -139,10 +145,8 @@ def is_bookmakers_combinations_profitable(bookmakers_comb):
 def get_profits_percentage(quote_1, quote_2):
     return float(round((1 - ((1/quote_1)+(1/quote_2)))*100, 2))
 
-def write_to_file_profittable_matches(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT):
-
-    f = open('profittable_bets.txt', 'a', encoding='utf-8')
-
+# winning matches text and write to file
+def create_text(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT):
     text = (
         'SPORT INFO: ' + str(match['sport_title']) + str('\n') +
         'MATCH: ' + str(match['home_team']) + ' vs ' + str(match['away_team']) + str('\n') +
@@ -161,15 +165,22 @@ def write_to_file_profittable_matches(match, points_key, points_elem, stake_A, s
         ' (quote: ' + str(points_elem['totals']['Under_2']) + ')' + '\n' +
         '   STAKE: bet ' + str(round(stake_B, 2)) +
         '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€' +
-        '\n\n' + 
+        '\n\n' +
         '----------------------------------------------------------------------------------------' +
         '\n\n'
     )
+    return text
 
+def write_to_file_profittable_matches(text):
+    f = open('profittable_bets.txt', 'a', encoding='utf-8')
     f.write(text)
 
 # bet amount
 def get_stake_from_quote(quote, win_amount):
     return win_amount/quote
 
-
+# log 
+def write_log(f_log, string):
+    f_log.write(datetime_format(datetime.now()) + ': ')
+    f_log.write(str(string))
+    f_log.write('\n')
