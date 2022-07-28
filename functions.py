@@ -143,35 +143,30 @@ def write_to_file_profittable_matches(match, points_key, points_elem, stake_A, s
 
     f = open('profittable_bets.txt', 'a', encoding='utf-8')
 
-    f.write('SPORT INFO: ')
-    f.write(str(match['sport_title']))
-    f.write('\n')
-    f.write('MATCH: ')
-    f.write(str(match['home_team']) + ' vs ' + match['away_team'])
-    f.write('\n')
-    f.write('DATE, TIME: ')
-    f.write(str(match['commence_time']))
-    f.write('\n\n')
-    f.write('PROFIT: ')
-    f.write(str(get_profits_percentage(
-        float(points_elem['totals']['Over_1']), float(points_elem['totals']['Under_2']))) + '%')
-    f.write('\n')
-    f.write('BET:\n')
-    f.write('   bet OVER ' + str(points_key) + ' on bookmaker ' +
-            str(points_elem['bookmaker_1']).upper() + ' (quote: ' + str(points_elem['totals']['Over_1']) + ')')
-    f.write('\n')
-    f.write('   STAKE: bet ' + str(round(stake_A, 2)) +
-            '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€')
-    f.write('\n\n')
-    f.write('   bet UNDER ' + str(points_key) + ' on bookmaker ' +
-            str(points_elem['bookmaker_2']).upper() + ' (quote: ' + str(points_elem['totals']['Under_2']) + ')')
-    f.write('\n')
-    f.write('   STAKE: bet ' + str(round(stake_B, 2)) +
-            '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€')
-    f.write('\n\n')
-    f.write('----------------------------------------------------------------------------------------')
-    f.write('\n\n')
+    text = (
+        'SPORT INFO: ' + str(match['sport_title']) + str('\n') +
+        'MATCH: ' + str(match['home_team']) + ' vs ' + str(match['away_team']) + str('\n') +
+        'DATE, TIME: ' + str(match['commence_time']) +
+        '\n\n' +
+        'PROFIT: ' + str(get_profits_percentage(
+            float(points_elem['totals']['Over_1']), float(points_elem['totals']['Under_2']))) + '%\n' +
+        'BET:\n'
+        '   bet OVER ' + str(points_key) + ' on bookmaker ' +
+        str(points_elem['bookmaker_1']).upper() +
+        ' (quote: ' + str(points_elem['totals']['Over_1']) + ')' + '\n' +
+        '   STAKE: bet ' + str(round(stake_A, 2)) +
+        '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€' + '\n'
+        '   bet UNDER ' + str(points_key) + ' on bookmaker ' +
+        str(points_elem['bookmaker_2']).upper() +
+        ' (quote: ' + str(points_elem['totals']['Under_2']) + ')' + '\n' +
+        '   STAKE: bet ' + str(round(stake_B, 2)) +
+        '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€' +
+        '\n\n' + 
+        '----------------------------------------------------------------------------------------' +
+        '\n\n'
+    )
 
+    f.write(text)
 
 # bet amount
 def get_stake_from_quote(quote, win_amount):

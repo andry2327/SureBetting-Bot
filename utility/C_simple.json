@@ -1,321 +1,907 @@
 [
     {
-        "id": "a39422f8f33839f4a4c271bd2ab9220b",
+        "id": "efd6cab4c329cd2c8551f8a97d2b55c5",
         "sport_key": "baseball_mlb",
         "sport_title": "MLB",
-        "commence_time": "2022-07-27T16:36:00Z",
-        "home_team": "Philadelphia Phillies",
-        "away_team": "Atlanta Braves",
+        "commence_time": "2022-07-28T16:36:00Z",
+        "home_team": "Baltimore Orioles",
+        "away_team": "Tampa Bay Rays",
+        "points": {
+            "9.0": [
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.99,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.9
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.99,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.9
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.99,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.89,
+                        "Under_2": 1.9
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.99,
+                        "Under_2": 1.94
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.9
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.99,
+                        "Under_2": 2.0
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.83,
+                        "Under_2": 1.9
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.89,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.94
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 2.0
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.83,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.89,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.94
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 2.0
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.83,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.89,
+                        "Under_2": 1.94
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.89,
+                        "Under_2": 2.0
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.83,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 2.0
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.83,
+                        "Under_2": 1.94
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "8f49948fb6555684a39d14712a433c7d",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-28T16:36:00Z",
+        "home_team": "Cincinnati Reds",
+        "away_team": "Miami Marlins",
+        "points": {
+            "9.5": [
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 2.07,
+                        "Under_2": 1.86
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.88
+                    }
+                },
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 2.07,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.97,
+                        "Under_2": 1.88
+                    }
+                },
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 2.07,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 2.05,
+                        "Under_2": 1.88
+                    }
+                },
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 2.07,
+                        "Under_2": 1.84
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.88
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.97,
+                        "Under_2": 1.86
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 2.05,
+                        "Under_2": 1.86
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.84
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.86
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.97,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 2.05,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.97,
+                        "Under_2": 1.84
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 2.05,
+                        "Under_2": 1.84
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.85
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "3dd15e8bdfd63c2166b0e1409c45e985",
+        "sport_key": "soccer_brazil_serie_b",
+        "sport_title": "Brazil Série B",
+        "commence_time": "2022-07-28T22:00:00Z",
+        "home_team": "Vasco da Gama",
+        "away_team": "Clube de Regatas Brasil",
+        "points": {
+            "1.5": [
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.52,
+                        "Under_2": 2.45
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.49,
+                        "Under_2": 2.43
+                    }
+                }
+            ],
+            "2.0": [
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 2.02,
+                        "Under_2": 1.82
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 2.0,
+                        "Under_2": 1.85
+                    }
+                }
+            ],
+            "2.5": [
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 2.55,
+                        "Under_2": 1.48
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 2.55,
+                        "Under_2": 1.48
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "c9798df891c26fc55d9f32f7340e603e",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-28T23:06:00Z",
+        "home_team": "New York Yankees",
+        "away_team": "Kansas City Royals",
         "points": {
             "8.5": [
                 {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 2.01
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 2.02
+                    }
+                },
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.92,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.98
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.97
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 2.02
+                    }
+                },
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.92,
+                        "Under_2": 2.01
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 2.01
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.98
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 2.01
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.97
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 2.01
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.88,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 2.01
+                    }
+                },
+                {
                     "bookmaker_1": "onexbet",
                     "bookmaker_2": "mybookieag",
                     "totals": {
-                        "Over_1": 1.85,
-                        "Under_2": 2.0
+                        "Over_1": 1.92,
+                        "Under_2": 1.95
                     }
                 },
                 {
                     "bookmaker_1": "mybookieag",
                     "bookmaker_2": "onexbet",
                     "totals": {
-                        "Over_1": 1.83,
-                        "Under_2": 2.1
-                    }
-                }
-            ],
-            "9.0": [
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 2.02,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.86
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.97,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 2.02,
-                        "Under_2": 1.86
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.97,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 2.02,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 2.02,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.97,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.86
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.97,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.86
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.87
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "9f712ccf0655ef26edea17f259943e40",
-        "sport_key": "soccer_norway_eliteserien",
-        "sport_title": "Eliteserien - Norway",
-        "commence_time": "2022-07-27T17:00:00Z",
-        "home_team": "Sandefjord",
-        "away_team": "Kristiansund BK",
-        "points": {
-            "3.5": [
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 2.28,
-                        "Under_2": 1.67
+                        "Over_1": 1.87,
+                        "Under_2": 2.02
                     }
                 },
                 {
                     "bookmaker_1": "onexbet",
                     "bookmaker_2": "unibet",
                     "totals": {
-                        "Over_1": 2.23,
-                        "Under_2": 1.63
+                        "Over_1": 1.92,
+                        "Under_2": 1.98
                     }
                 },
                 {
                     "bookmaker_1": "unibet",
-                    "bookmaker_2": "sport888",
+                    "bookmaker_2": "onexbet",
                     "totals": {
-                        "Over_1": 2.28,
-                        "Under_2": 1.63
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 2.28,
-                        "Under_2": 1.63
+                        "Over_1": 1.86,
+                        "Under_2": 2.02
                     }
                 },
                 {
                     "bookmaker_1": "onexbet",
                     "bookmaker_2": "sport888",
                     "totals": {
-                        "Over_1": 2.23,
-                        "Under_2": 1.63
+                        "Over_1": 1.92,
+                        "Under_2": 1.97
                     }
                 },
                 {
                     "bookmaker_1": "sport888",
                     "bookmaker_2": "onexbet",
                     "totals": {
-                        "Over_1": 2.28,
-                        "Under_2": 1.67
+                        "Over_1": 1.86,
+                        "Under_2": 2.02
+                    }
+                },
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.92,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 2.02
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.98
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.97
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 1.97
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 1.98
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.98
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.86,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 1.97
                     }
                 }
             ]
         }
     },
     {
-        "id": "7565b21b10e1758e2457c5460662cd08",
+        "id": "e83c27cbaaf192ed7292decd1c49311a",
         "sport_key": "baseball_mlb",
         "sport_title": "MLB",
-        "commence_time": "2022-07-27T17:11:00Z",
-        "home_team": "Detroit Tigers",
-        "away_team": "San Diego Padres",
+        "commence_time": "2022-07-28T23:06:00Z",
+        "home_team": "Pittsburgh Pirates",
+        "away_team": "Philadelphia Phillies",
         "points": {
-            "7.0": [
+            "7.5": [
                 {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.82,
-                        "Under_2": 1.98
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
+                    "bookmaker_1": "onexbet",
                     "bookmaker_2": "betonlineag",
                     "totals": {
-                        "Over_1": 1.84,
+                        "Over_1": 1.89,
                         "Under_2": 2.0
                     }
                 },
                 {
                     "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "unibet",
+                    "bookmaker_2": "onexbet",
                     "totals": {
-                        "Over_1": 1.82,
-                        "Under_2": 1.98
+                        "Over_1": 1.83,
+                        "Under_2": 2.06
                     }
                 },
                 {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "betonlineag",
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "mybookieag",
                     "totals": {
-                        "Over_1": 1.85,
+                        "Over_1": 1.89,
                         "Under_2": 2.0
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.83,
+                        "Under_2": 2.06
+                    }
+                },
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.89,
+                        "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 2.06
                     }
                 },
                 {
                     "bookmaker_1": "betonlineag",
                     "bookmaker_2": "mybookieag",
                     "totals": {
-                        "Over_1": 1.82,
-                        "Under_2": 1.95
+                        "Over_1": 1.83,
+                        "Under_2": 2.0
                     }
                 },
                 {
                     "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.0
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.82,
-                        "Under_2": 2.0
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
                     "bookmaker_2": "betonlineag",
                     "totals": {
                         "Over_1": 1.83,
@@ -323,1331 +909,243 @@
                     }
                 },
                 {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "unibet",
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "intertops",
                     "totals": {
-                        "Over_1": 1.84,
-                        "Under_2": 1.98
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.85,
-                        "Under_2": 1.98
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.84,
+                        "Over_1": 1.83,
                         "Under_2": 1.95
                     }
                 },
                 {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.98
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.84,
-                        "Under_2": 2.0
-                    }
-                },
-                {
                     "bookmaker_1": "intertops",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.83,
-                        "Under_2": 1.98
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.85,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.98
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.85,
-                        "Under_2": 2.0
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.83,
-                        "Under_2": 1.98
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "intertops",
+                    "bookmaker_2": "betonlineag",
                     "totals": {
                         "Over_1": 1.87,
                         "Under_2": 2.0
                     }
                 },
                 {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "mybookieag",
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "intertops",
                     "totals": {
                         "Over_1": 1.83,
                         "Under_2": 1.95
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.87,
+                        "Under_2": 2.0
                     }
                 }
             ],
-            "7.5": [
+            "8.0": [
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 2.02,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 2.0,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 2.02,
+                        "Under_2": 1.84
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 2.0,
+                        "Under_2": 1.84
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.98,
+                        "Under_2": 1.85
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "3677539d4f3ec3e2b4bbb439cdb76d30",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-28T23:08:00Z",
+        "home_team": "Toronto Blue Jays",
+        "away_team": "Detroit Tigers",
+        "points": {
+            "9.5": [
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "pinnacle",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.85
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 2.05,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "onexbet",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 2.08,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "betonlineag",
+                    "bookmaker_2": "intertops",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "intertops",
+                    "bookmaker_2": "betonlineag",
+                    "totals": {
+                        "Over_1": 1.95,
+                        "Under_2": 1.87
+                    }
+                },
+                {
+                    "bookmaker_1": "pinnacle",
+                    "bookmaker_2": "onexbet",
+                    "totals": {
+                        "Over_1": 2.05,
+                        "Under_2": 1.87
+                    }
+                },
                 {
                     "bookmaker_1": "onexbet",
                     "bookmaker_2": "pinnacle",
                     "totals": {
                         "Over_1": 2.08,
-                        "Under_2": 1.83
+                        "Under_2": 1.85
                     }
                 },
                 {
                     "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "onexbet",
+                    "bookmaker_2": "intertops",
                     "totals": {
-                        "Over_1": 2.07,
+                        "Over_1": 2.05,
                         "Under_2": 1.87
                     }
-                }
-            ]
-        }
-    },
-    {
-        "id": "1797c5561bc410d7221a29727dcd7449",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T18:11:00Z",
-        "home_team": "Kansas City Royals",
-        "away_team": "Los Angeles Angels",
-        "points": {
-            "8.5": [
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.9
-                    }
                 },
                 {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 2.01
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
+                    "bookmaker_1": "intertops",
                     "bookmaker_2": "pinnacle",
                     "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.99
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 2.01
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.94,
-                        "Under_2": 2.01
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.89
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 2.01
+                        "Over_1": 1.95,
+                        "Under_2": 1.85
                     }
                 },
                 {
                     "bookmaker_1": "onexbet",
                     "bookmaker_2": "intertops",
                     "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.95
+                        "Over_1": 2.08,
+                        "Under_2": 1.87
                     }
                 },
                 {
                     "bookmaker_1": "intertops",
                     "bookmaker_2": "onexbet",
                     "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.01
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.99
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.94,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.89
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.94,
-                        "Under_2": 1.99
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 1.89
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.99
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.99
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.94,
-                        "Under_2": 1.89
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.94,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.89
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "79d8aa5fc84b218e8569325b0cc58193",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T18:11:00Z",
-        "home_team": "Milwaukee Brewers",
-        "away_team": "Minnesota Twins",
-        "points": {
-            "8.0": [
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.96,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.9,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.91,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.96,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.91,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.96,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
                         "Over_1": 1.95,
                         "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.91,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.96,
-                        "Under_2": 1.87
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.96,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.91,
-                        "Under_2": 1.88
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.91,
-                        "Under_2": 1.87
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "8b42df56d1682e4da251658e5b17df3c",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T19:11:00Z",
-        "home_team": "Colorado Rockies",
-        "away_team": "Chicago White Sox",
-        "points": {
-            "11.5": [
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.96
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.93
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.92,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.84
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.93
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.96
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.92,
-                        "Under_2": 1.96
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.96
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.96
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.98,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.96
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.92,
-                        "Under_2": 1.93
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.93
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.93
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.95,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.93
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.92,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.92,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.92,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.9
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.93,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.91
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.83
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "0e7b96f757ff7e9af3154d7471d21d48",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T19:11:00Z",
-        "home_team": "Los Angeles Dodgers",
-        "away_team": "Washington Nationals",
-        "points": {
-            "9.0": [
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 2.02,
-                        "Under_2": 1.83
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.81
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 2.02,
-                        "Under_2": 1.89
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.81
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.89
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 2.0,
-                        "Under_2": 1.83
                     }
                 }
             ],
-            "8.5": [
+            "9.0": [
                 {
-                    "bookmaker_1": "onexbet",
+                    "bookmaker_1": "unibet",
+                    "bookmaker_2": "sport888",
+                    "totals": {
+                        "Over_1": 1.84,
+                        "Under_2": 2.0
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
                     "bookmaker_2": "unibet",
                     "totals": {
                         "Over_1": 1.83,
-                        "Under_2": 2.02
+                        "Under_2": 2.0
                     }
                 },
                 {
                     "bookmaker_1": "unibet",
-                    "bookmaker_2": "onexbet",
+                    "bookmaker_2": "mybookieag",
+                    "totals": {
+                        "Over_1": 1.84,
+                        "Under_2": 1.91
+                    }
+                },
+                {
+                    "bookmaker_1": "mybookieag",
+                    "bookmaker_2": "unibet",
+                    "totals": {
+                        "Over_1": 1.91,
+                        "Under_2": 2.0
+                    }
+                },
+                {
+                    "bookmaker_1": "sport888",
+                    "bookmaker_2": "mybookieag",
                     "totals": {
                         "Over_1": 1.83,
-                        "Under_2": 2.12
-                    }
-                },
-                {
-                    "bookmaker_1": "onexbet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.83,
-                        "Under_2": 2.02
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "onexbet",
-                    "totals": {
-                        "Over_1": 1.82,
-                        "Under_2": 2.12
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.83,
-                        "Under_2": 2.02
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.82,
-                        "Under_2": 2.02
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "bc845f49adc65b4254c24340bc13439c",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T19:38:00Z",
-        "home_team": "Oakland Athletics",
-        "away_team": "Houston Astros",
-        "points": {
-            "7.0": [
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 2.03
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.92
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.81,
-                        "Under_2": 1.92
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.8,
-                        "Under_2": 1.92
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.92
-                    }
-                },
-                {
-                    "bookmaker_1": "betonlineag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.89,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "betonlineag",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.92
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.81,
-                        "Under_2": 2.03
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.8,
-                        "Under_2": 2.03
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.03
-                    }
-                },
-                {
-                    "bookmaker_1": "pinnacle",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "pinnacle",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.03
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.81,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.8,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.81,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "unibet",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.81,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "unibet",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.8,
-                        "Under_2": 1.95
+                        "Under_2": 1.91
                     }
                 },
                 {
                     "bookmaker_1": "mybookieag",
                     "bookmaker_2": "sport888",
                     "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "sport888",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.8,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "sport888",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 2.04
-                    }
-                },
-                {
-                    "bookmaker_1": "mybookieag",
-                    "bookmaker_2": "intertops",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.95
-                    }
-                },
-                {
-                    "bookmaker_1": "intertops",
-                    "bookmaker_2": "mybookieag",
-                    "totals": {
-                        "Over_1": 1.87,
-                        "Under_2": 1.95
+                        "Over_1": 1.91,
+                        "Under_2": 2.0
                     }
                 }
             ]

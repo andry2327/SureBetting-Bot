@@ -1,18 +1,55 @@
 [
     {
-        "id": "a39422f8f33839f4a4c271bd2ab9220b",
+        "id": "efd6cab4c329cd2c8551f8a97d2b55c5",
         "sport_key": "baseball_mlb",
         "sport_title": "MLB",
-        "commence_time": "2022-07-27T16:36:00Z",
-        "home_team": "Philadelphia Phillies",
-        "away_team": "Atlanta Braves",
+        "commence_time": "2022-07-28T16:36:00Z",
+        "home_team": "Baltimore Orioles",
+        "away_team": "Tampa Bay Rays",
         "points": {
-            "8.5": [
+            "9.5": [
                 {
                     "bookmaker": "onexbet",
                     "totals": {
-                        "Over": 1.85,
-                        "Under": 2.1
+                        "Over": 2.18,
+                        "Under": 1.79
+                    }
+                }
+            ],
+            "9.0": [
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 1.99,
+                        "Under": 1.9
+                    }
+                },
+                {
+                    "bookmaker": "intertops",
+                    "totals": {
+                        "Over": 1.95,
+                        "Under": 1.87
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.95,
+                        "Under": 1.87
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.89,
+                        "Under": 1.95
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.88,
+                        "Under": 1.94
                     }
                 },
                 {
@@ -22,134 +59,151 @@
                         "Under": 2.0
                     }
                 }
-            ],
-            "9.0": [
+            ]
+        }
+    },
+    {
+        "id": "8f49948fb6555684a39d14712a433c7d",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-28T16:36:00Z",
+        "home_team": "Cincinnati Reds",
+        "away_team": "Miami Marlins",
+        "points": {
+            "9.5": [
                 {
-                    "bookmaker": "betonlineag",
+                    "bookmaker": "onexbet",
                     "totals": {
-                        "Over": 1.98,
-                        "Under": 1.84
+                        "Over": 2.07,
+                        "Under": 1.88
                     }
                 },
                 {
-                    "bookmaker": "pinnacle",
+                    "bookmaker": "unibet",
                     "totals": {
-                        "Over": 2.02,
-                        "Under": 1.88
+                        "Over": 1.98,
+                        "Under": 1.86
                     }
                 },
                 {
                     "bookmaker": "sport888",
                     "totals": {
                         "Over": 1.97,
-                        "Under": 1.86
+                        "Under": 1.85
                     }
                 },
                 {
-                    "bookmaker": "unibet",
+                    "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.98,
-                        "Under": 1.87
+                        "Over": 2.05,
+                        "Under": 1.85
                     }
                 },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.98,
+                        "Under": 1.84
+                    }
+                }
+            ],
+            "9.0": [
                 {
                     "bookmaker": "intertops",
                     "totals": {
-                        "Over": 2.0,
-                        "Under": 1.83
+                        "Over": 1.83,
+                        "Under": 2.0
                     }
                 }
             ]
         }
     },
     {
-        "id": "9f712ccf0655ef26edea17f259943e40",
-        "sport_key": "soccer_norway_eliteserien",
-        "sport_title": "Eliteserien - Norway",
-        "commence_time": "2022-07-27T17:00:00Z",
-        "home_team": "Sandefjord",
-        "away_team": "Kristiansund BK",
+        "id": "3dd15e8bdfd63c2166b0e1409c45e985",
+        "sport_key": "soccer_brazil_serie_b",
+        "sport_title": "Brazil Série B",
+        "commence_time": "2022-07-28T22:00:00Z",
+        "home_team": "Vasco da Gama",
+        "away_team": "Clube de Regatas Brasil",
         "points": {
-            "3.5": [
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 2.28,
-                        "Under": 1.63
-                    }
-                },
+            "1.5": [
                 {
                     "bookmaker": "onexbet",
                     "totals": {
-                        "Over": 2.23,
-                        "Under": 1.67
+                        "Over": 1.52,
+                        "Under": 2.43
                     }
                 },
                 {
-                    "bookmaker": "sport888",
+                    "bookmaker": "mybookieag",
                     "totals": {
-                        "Over": 2.28,
-                        "Under": 1.63
+                        "Over": 1.49,
+                        "Under": 2.45
+                    }
+                }
+            ],
+            "2.0": [
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 2.02,
+                        "Under": 1.85
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.82
                     }
                 }
             ],
             "2.5": [
                 {
-                    "bookmaker": "williamhill",
+                    "bookmaker": "unibet",
                     "totals": {
-                        "Over": 1.5,
-                        "Under": 2.5
+                        "Over": 2.55,
+                        "Under": 1.48
                     }
-                }
-            ],
-            "3.25": [
+                },
                 {
-                    "bookmaker": "pinnacle",
+                    "bookmaker": "sport888",
                     "totals": {
-                        "Over": 2.03,
-                        "Under": 1.86
-                    }
-                }
-            ],
-            "3.0": [
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.82,
-                        "Under": 2.02
+                        "Over": 2.55,
+                        "Under": 1.48
                     }
                 }
             ]
         }
     },
     {
-        "id": "7565b21b10e1758e2457c5460662cd08",
+        "id": "c9798df891c26fc55d9f32f7340e603e",
         "sport_key": "baseball_mlb",
         "sport_title": "MLB",
-        "commence_time": "2022-07-27T17:11:00Z",
-        "home_team": "Detroit Tigers",
-        "away_team": "San Diego Padres",
+        "commence_time": "2022-07-28T23:06:00Z",
+        "home_team": "New York Yankees",
+        "away_team": "Kansas City Royals",
         "points": {
-            "7.0": [
+            "8.5": [
                 {
                     "bookmaker": "betonlineag",
                     "totals": {
-                        "Over": 1.82,
-                        "Under": 2.0
+                        "Over": 1.87,
+                        "Under": 1.95
                     }
                 },
                 {
-                    "bookmaker": "sport888",
+                    "bookmaker": "pinnacle",
                     "totals": {
-                        "Over": 1.84,
-                        "Under": 1.98
+                        "Over": 1.88,
+                        "Under": 2.01
                     }
                 },
                 {
-                    "bookmaker": "unibet",
+                    "bookmaker": "onexbet",
                     "totals": {
-                        "Over": 1.85,
-                        "Under": 1.98
+                        "Over": 1.92,
+                        "Under": 2.02
                     }
                 },
                 {
@@ -160,14 +214,115 @@
                     }
                 },
                 {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 1.86,
+                        "Under": 1.98
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.86,
+                        "Under": 1.97
+                    }
+                },
+                {
                     "bookmaker": "intertops",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 1.95
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "e83c27cbaaf192ed7292decd1c49311a",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-28T23:06:00Z",
+        "home_team": "Pittsburgh Pirates",
+        "away_team": "Philadelphia Phillies",
+        "points": {
+            "7.5": [
+                {
+                    "bookmaker": "onexbet",
+                    "totals": {
+                        "Over": 1.89,
+                        "Under": 2.06
+                    }
+                },
+                {
+                    "bookmaker": "betonlineag",
                     "totals": {
                         "Over": 1.83,
                         "Under": 2.0
                     }
+                },
+                {
+                    "bookmaker": "mybookieag",
+                    "totals": {
+                        "Over": 1.83,
+                        "Under": 2.0
+                    }
+                },
+                {
+                    "bookmaker": "intertops",
+                    "totals": {
+                        "Over": 1.87,
+                        "Under": 1.95
+                    }
                 }
             ],
-            "7.5": [
+            "8.0": [
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 2.02,
+                        "Under": 1.87
+                    }
+                },
+                {
+                    "bookmaker": "unibet",
+                    "totals": {
+                        "Over": 2.0,
+                        "Under": 1.85
+                    }
+                },
+                {
+                    "bookmaker": "sport888",
+                    "totals": {
+                        "Over": 1.98,
+                        "Under": 1.84
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "3677539d4f3ec3e2b4bbb439cdb76d30",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-07-28T23:08:00Z",
+        "home_team": "Toronto Blue Jays",
+        "away_team": "Detroit Tigers",
+        "points": {
+            "9.5": [
+                {
+                    "bookmaker": "betonlineag",
+                    "totals": {
+                        "Over": 1.95,
+                        "Under": 1.87
+                    }
+                },
+                {
+                    "bookmaker": "pinnacle",
+                    "totals": {
+                        "Over": 2.05,
+                        "Under": 1.85
+                    }
+                },
                 {
                     "bookmaker": "onexbet",
                     "totals": {
@@ -176,316 +331,33 @@
                     }
                 },
                 {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.07,
-                        "Under": 1.83
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "1797c5561bc410d7221a29727dcd7449",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T18:11:00Z",
-        "home_team": "Kansas City Royals",
-        "away_team": "Los Angeles Angels",
-        "points": {
-            "8.5": [
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.93,
-                        "Under": 2.01
-                    }
-                },
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.9,
-                        "Under": 1.9
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.89,
-                        "Under": 1.99
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.94,
-                        "Under": 1.9
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.93,
-                        "Under": 1.89
-                    }
-                },
-                {
                     "bookmaker": "intertops",
                     "totals": {
-                        "Over": 1.87,
-                        "Under": 1.95
+                        "Over": 1.95,
+                        "Under": 1.87
                     }
                 }
             ],
             "9.0": [
                 {
-                    "bookmaker": "mybookieag",
+                    "bookmaker": "unibet",
                     "totals": {
-                        "Over": 2.0,
-                        "Under": 1.83
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "79d8aa5fc84b218e8569325b0cc58193",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T18:11:00Z",
-        "home_team": "Milwaukee Brewers",
-        "away_team": "Minnesota Twins",
-        "points": {
-            "7.5": [
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 2.08
-                    }
-                }
-            ],
-            "8.0": [
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.9,
-                        "Under": 1.91
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.98,
-                        "Under": 1.91
+                        "Over": 1.84,
+                        "Under": 2.0
                     }
                 },
                 {
                     "bookmaker": "sport888",
                     "totals": {
-                        "Over": 1.95,
-                        "Under": 1.87
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.96,
-                        "Under": 1.88
+                        "Over": 1.83,
+                        "Under": 2.0
                     }
                 },
                 {
                     "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.95,
-                        "Under": 1.87
-                    }
-                },
-                {
-                    "bookmaker": "intertops",
                     "totals": {
                         "Over": 1.91,
                         "Under": 1.91
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "8b42df56d1682e4da251658e5b17df3c",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T19:11:00Z",
-        "home_team": "Colorado Rockies",
-        "away_team": "Chicago White Sox",
-        "points": {
-            "11.5": [
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.98,
-                        "Under": 1.84
-                    }
-                },
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.98,
-                        "Under": 1.96
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.95,
-                        "Under": 1.93
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.92,
-                        "Under": 1.9
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.93,
-                        "Under": 1.91
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.83
-                    }
-                },
-                {
-                    "bookmaker": "intertops",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.83
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "0e7b96f757ff7e9af3154d7471d21d48",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T19:11:00Z",
-        "home_team": "Los Angeles Dodgers",
-        "away_team": "Washington Nationals",
-        "points": {
-            "9.0": [
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 2.02,
-                        "Under": 1.81
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.83
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 2.0,
-                        "Under": 1.89
-                    }
-                }
-            ],
-            "8.5": [
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 1.83,
-                        "Under": 2.12
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.83,
-                        "Under": 2.02
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.82,
-                        "Under": 2.02
-                    }
-                }
-            ]
-        }
-    },
-    {
-        "id": "bc845f49adc65b4254c24340bc13439c",
-        "sport_key": "baseball_mlb",
-        "sport_title": "MLB",
-        "commence_time": "2022-07-27T19:38:00Z",
-        "home_team": "Oakland Athletics",
-        "away_team": "Houston Astros",
-        "points": {
-            "7.5": [
-                {
-                    "bookmaker": "onexbet",
-                    "totals": {
-                        "Over": 2.15,
-                        "Under": 1.81
-                    }
-                }
-            ],
-            "7.0": [
-                {
-                    "bookmaker": "betonlineag",
-                    "totals": {
-                        "Over": 1.89,
-                        "Under": 1.92
-                    }
-                },
-                {
-                    "bookmaker": "pinnacle",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 2.03
-                    }
-                },
-                {
-                    "bookmaker": "unibet",
-                    "totals": {
-                        "Over": 1.81,
-                        "Under": 2.04
-                    }
-                },
-                {
-                    "bookmaker": "sport888",
-                    "totals": {
-                        "Over": 1.8,
-                        "Under": 2.04
-                    }
-                },
-                {
-                    "bookmaker": "mybookieag",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 1.95
-                    }
-                },
-                {
-                    "bookmaker": "intertops",
-                    "totals": {
-                        "Over": 1.87,
-                        "Under": 1.95
                     }
                 }
             ]
