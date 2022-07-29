@@ -21,9 +21,15 @@ curr_day = str(datetime.now().strftime("%d"))
 
 i_key = 0
 five_min = 5*60
+ten_min = 10*60
 profittable_matches_count = 0
 API_response_fetch = 0
 EURO_STARTING_BALANCE = 10000  
+EURO_STARTING_BALANCE = input('Insert your starting balance in €: (-1 for 10000€')
+
+if(EURO_STARTING_BALANCE == -1):
+    EURO_STARTING_BALANCE = 10000
+    
 BALANCE_AMOUNT_RATIO = 0.1  # for each bet, the stake will be 1/10 of current balance
 
 EURO_BALANCE = EURO_STARTING_BALANCE
@@ -56,8 +62,6 @@ while(1):
             API_response_fetch += 1
             matches_full = response_to_json(response)
             logger.info('START API fetch N: ' + str(API_response_fetch))
-            send_message(
-                bot, chat_id, 'START API fetch N ' + str(API_response_fetch))
             # for each upcoming event, get its bookmakers and their O/U (totals) odds
             upcoming_matches = []
             for match in matches_full:
@@ -116,9 +120,6 @@ while(1):
                                 logger.info('fetch N ' + str(API_response_fetch) +
                                             ', MATCH ' + str(match_index) + ': NO FOUND')
                 match_index += 1
-
-            send_message(
-                bot, chat_id, 'END API fetch N ' + str(API_response_fetch))
             logger.info('END API fetch N: ' + str(API_response_fetch))
             i_key += 1
             sleep(five_min)

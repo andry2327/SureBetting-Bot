@@ -1,9 +1,15 @@
 from contextlib import nullcontext
 from datetime import datetime
+import time
 from requests import get
 from my_API_keys import *
 import json
 from itertools import combinations
+import telepot
+
+headers = { # change your headers
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+}
 
 # time format
 
@@ -17,18 +23,18 @@ def bet_id_format(match_id, points, b1, q1, b2, q2):
 
 def get_API_response(API_KEY):
     url = 'https://api.the-odds-api.com/v4/sports/?apiKey={}'.format(API_KEY)
-    response = get(url)
+    response = get(url, headers)
     return response
 
 def get_API_response_Sports(API_KEY):
     url = 'https://api.the-odds-api.com/v4/sports/?apiKey={}'.format(API_KEY)
-    response = get(url)
+    response = get(url, headers)
     return response
 
 def get_API_response_Odds(API_KEY, region, market):
     url = 'https://api.the-odds-api.com/v4/sports/upcoming/odds/?regions={}&markets={}&apiKey={}'.format(
         region, market, API_KEY)
-    response = get(url)
+    response = get(url, headers)
     return response
 
 def get_API_response_Scores(API_KEY, sport, days_from):  # set days_from = 0 if you don' need this option
@@ -36,7 +42,7 @@ def get_API_response_Scores(API_KEY, sport, days_from):  # set days_from = 0 if 
         url = 'https://api.the-odds-api.com/v4/sports/{}/scores/?apiKey={}'.format(sport, API_KEY)
     else:
         url = 'https://api.the-odds-api.com/v4/sports/{}/scores/?daysFrom={}&apiKey={}'.format(sport, days_from, API_KEY)
-    response = get(url)
+    response = get(url, headers)
     return response
 
 
@@ -50,8 +56,8 @@ def response_to_json(response):
 # get API_KEY remaining requests
 
 def remaning_requests(response):
-    headers = response.headers
-    return int(headers['X-Requests-Remaining'])
+    thisHeaders = response.headers
+    return int(thisHeaders['X-Requests-Remaining'])
 
 # print/get json to file 'temp_log.json' with indent
 
@@ -192,6 +198,16 @@ def write_log(f_log, string):
 # Telegram
 
 def send_message(bot, chat_id, message):
-    bot.sendMessage(chat_id, message)
+    while True:
+        try:
+            bot.sendMessage(chat_id, message)
+            break
+        except telepot.exception.TelegramError as e:
+            raise e
+        except Exception as e:
+            time.sleep(1) # wait 1 more second to send again
+
+
+    #bot.sendMessage(chat_id, message)
 
         
