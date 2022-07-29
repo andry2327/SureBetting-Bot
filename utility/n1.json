@@ -1,0 +1,162 @@
+[
+    {
+        "bookmaker_1": "mybookieag",
+        "bookmaker_2": "onexbet",
+        "totals": {
+            "Over_1": 1.57,
+            "Under_2": 2.34
+        }
+    },
+    {
+        "bookmaker_1": "onexbet",
+        "bookmaker_2": "mybookieag",
+        "totals": {
+            "Over_1": 1.61,
+            "Under_2": 2.25
+        }
+    },
+    {
+        "bookmaker_1": "mybookieag",
+        "bookmaker_2": "williamhill",
+        "totals": {
+            "Over_1": 1.57,
+            "Under_2": 2.05
+        }
+    },
+    {
+        "bookmaker_1": "williamhill",
+        "bookmaker_2": "mybookieag",
+        "totals": {
+            "Over_1": 1.7,
+            "Under_2": 2.25
+        }
+    },
+    {
+        "bookmaker_1": "mybookieag",
+        "bookmaker_2": "sport888",
+        "totals": {
+            "Over_1": 1.57,
+            "Under_2": 2.35
+        }
+    },
+    {
+        "bookmaker_1": "sport888",
+        "bookmaker_2": "mybookieag",
+        "totals": {
+            "Over_1": 1.58,
+            "Under_2": 2.25
+        }
+    },
+    {
+        "bookmaker_1": "mybookieag",
+        "bookmaker_2": "unibet",
+        "totals": {
+            "Over_1": 1.57,
+            "Under_2": 2.35
+        }
+    },
+    {
+        "bookmaker_1": "unibet",
+        "bookmaker_2": "mybookieag",
+        "totals": {
+            "Over_1": 1.58,
+            "Under_2": 2.25
+        }
+    },
+    {
+        "bookmaker_1": "onexbet",
+        "bookmaker_2": "williamhill",
+        "totals": {
+            "Over_1": 1.61,
+            "Under_2": 2.05
+        }
+    },
+    {
+        "bookmaker_1": "williamhill",
+        "bookmaker_2": "onexbet",
+        "totals": {
+            "Over_1": 1.7,
+            "Under_2": 2.34
+        }
+    },
+    {
+        "bookmaker_1": "onexbet",
+        "bookmaker_2": "sport888",
+        "totals": {
+            "Over_1": 1.61,
+            "Under_2": 2.35
+        }
+    },
+    {
+        "bookmaker_1": "sport888",
+        "bookmaker_2": "onexbet",
+        "totals": {
+            "Over_1": 1.58,
+            "Under_2": 2.34
+        }
+    },
+    {
+        "bookmaker_1": "onexbet",
+        "bookmaker_2": "unibet",
+        "totals": {
+            "Over_1": 1.61,
+            "Under_2": 2.35
+        }
+    },
+    {
+        "bookmaker_1": "unibet",
+        "bookmaker_2": "onexbet",
+        "totals": {
+            "Over_1": 1.58,
+            "Under_2": 2.34
+        }
+    },
+    {
+        "bookmaker_1": "williamhill",
+        "bookmaker_2": "sport888",
+        "totals": {
+            "Over_1": 1.7,
+            "Under_2": 2.35
+        }
+    },
+    {
+        "bookmaker_1": "sport888",
+        "bookmaker_2": "williamhill",
+        "totals": {
+            "Over_1": 1.58,
+            "Under_2": 2.05
+        }
+    },
+    {
+        "bookmaker_1": "williamhill",
+        "bookmaker_2": "unibet",
+        "totals": {
+            "Over_1": 1.7,
+            "Under_2": 2.35
+        }
+    },
+    {
+        "bookmaker_1": "unibet",
+        "bookmaker_2": "williamhill",
+        "totals": {
+            "Over_1": 1.58,
+            "Under_2": 2.05
+        }
+    },
+    {
+        "bookmaker_1": "sport888",
+        "bookmaker_2": "unibet",
+        "totals": {
+            "Over_1": 1.58,
+            "Under_2": 2.35
+        }
+    },
+    {
+        "bookmaker_1": "unibet",
+        "bookmaker_2": "sport888",
+        "totals": {
+            "Over_1": 1.58,
+            "Under_2": 2.35
+        }
+    }
+]

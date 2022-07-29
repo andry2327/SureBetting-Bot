@@ -1,0 +1,18 @@
+[
+    {
+        "bookmaker_1": "pinnacle",
+        "bookmaker_2": "matchbook",
+        "totals": {
+            "Over_1": 1.86,
+            "Under_2": 2.0
+        }
+    },
+    {
+        "bookmaker_1": "matchbook",
+        "bookmaker_2": "pinnacle",
+        "totals": {
+            "Over_1": 1.92,
+            "Under_2": 2.04
+        }
+    }
+]

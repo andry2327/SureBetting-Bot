@@ -1,0 +1,63 @@
+{
+    "id": "70fb54a4210eb3d3ace3a9d0c41d568a",
+    "sport_key": "soccer_germany_bundesliga2",
+    "sport_title": "Bundesliga 2 - Germany",
+    "commence_time": "2022-07-22T16:30:00Z",
+    "home_team": "Fortuna Düsseldorf",
+    "away_team": "SC Paderborn",
+    "points": {
+        "2.5": [
+            {
+                "bookmaker": "mybookieag",
+                "totals": {
+                    "Over": 1.57,
+                    "Under": 2.25
+                }
+            },
+            {
+                "bookmaker": "onexbet",
+                "totals": {
+                    "Over": 1.61,
+                    "Under": 2.34
+                }
+            },
+            {
+                "bookmaker": "williamhill",
+                "totals": {
+                    "Over": 1.7,
+                    "Under": 2.05
+                }
+            },
+            {
+                "bookmaker": "sport888",
+                "totals": {
+                    "Over": 1.58,
+                    "Under": 2.35
+                }
+            },
+            {
+                "bookmaker": "unibet",
+                "totals": {
+                    "Over": 1.58,
+                    "Under": 2.35
+                }
+            }
+        ],
+        "2.75": [
+            {
+                "bookmaker": "pinnacle",
+                "totals": {
+                    "Over": 1.86,
+                    "Under": 2.04
+                }
+            },
+            {
+                "bookmaker": "matchbook",
+                "totals": {
+                    "Over": 1.92,
+                    "Under": 2.0
+                }
+            }
+        ]
+    }
+}

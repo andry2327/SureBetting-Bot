@@ -25,14 +25,14 @@ ten_min = 10*60
 profittable_matches_count = 0
 API_response_fetch = 0
 EURO_STARTING_BALANCE = 10000  
-EURO_STARTING_BALANCE = input('Insert your starting balance in €: (-1 for 10000€')
+EURO_STARTING_BALANCE = input('Insert your starting balance in € (-1 to start with 10000€): ')
 
-if(EURO_STARTING_BALANCE == -1):
+if(float(EURO_STARTING_BALANCE) == -1):
     EURO_STARTING_BALANCE = 10000
-    
+
 BALANCE_AMOUNT_RATIO = 0.1  # for each bet, the stake will be 1/10 of current balance
 
-EURO_BALANCE = EURO_STARTING_BALANCE
+EURO_BALANCE = float(EURO_STARTING_BALANCE)
 
 #reset log file
 with open('exec.log', 'w'):
@@ -120,6 +120,8 @@ while(1):
                                 logger.info('fetch N ' + str(API_response_fetch) +
                                             ', MATCH ' + str(match_index) + ': NO FOUND')
                 match_index += 1
-            logger.info('END API fetch N: ' + str(API_response_fetch))
+            logger.info('END API fetch N: ' + str(API_response_fetch) + ', balance: ' + str(EURO_BALANCE) + '€')
             i_key += 1
+            print('i_key: '+str(i_key))
             sleep(five_min)
+    i_key = 0
