@@ -113,7 +113,7 @@ while(1):
                                 send_message(bot, chat_id, text_match)
                                 send_message(bot, chat_id, 'current balance: ' + str(round(EURO_BALANCE, 2)) + '€')
                             else:
-                                logger.info('API fetch N ' + str(API_response_fetch) +
+                                logger.info('fetch N ' + str(API_response_fetch) +
                                             ', MATCH ' + str(match_index) + ': NO FOUND')
                 match_index += 1
 
