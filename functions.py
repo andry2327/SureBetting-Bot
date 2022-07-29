@@ -163,13 +163,13 @@ def create_text(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT):
         'DATE, TIME: ' + str(match['commence_time']) +
         '\n\n' +
         'PROFIT: ' + str(get_profits_percentage(
-            float(points_elem['totals']['Over_1']), float(points_elem['totals']['Under_2']))) + '%\n' +
+            float(points_elem['totals']['Over_1']), float(points_elem['totals']['Under_2']))) + '%\n\n\n' +
         'BET:\n'
         '   bet OVER ' + str(points_key) + ' on bookmaker ' +
         str(points_elem['bookmaker_1']).upper() +
         ' (quote: ' + str(points_elem['totals']['Over_1']) + ')' + '\n' +
         '   STAKE: bet ' + str(round(stake_A, 2)) +
-        '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€' + '\n'
+        '€ for a total bet win of ' + str(round(WIN_AMOUNT, 2)) + '€' + '\n\n'
         '   bet UNDER ' + str(points_key) + ' on bookmaker ' +
         str(points_elem['bookmaker_2']).upper() +
         ' (quote: ' + str(points_elem['totals']['Under_2']) + ')' + '\n' +
