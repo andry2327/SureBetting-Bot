@@ -1,7 +1,15 @@
 from time import sleep
 from datetime import datetime
-from my_API_keys import keys_list
+from my_API_keys import keys_list, token
 from functions import *
+
+import telepot
+
+def handle(msg):
+    content_type, chat_type, chat_id = telepot.glance(msg)
+
+bot = telepot.Bot(token)
+bot.message_loop(handle)
 
 regions = ['eu'] # I only use regions which i_key have access to
 oddsFormat = ['decimal']
@@ -17,6 +25,8 @@ BALANCE_AMOUNT_RATIO = 0.1  # for each bet, the stake will be 1/10 of current ba
 EURO_BALANCE = EURO_STARTING_BALANCE
 open('log.txt', 'w').close()
 f_log = open('log.txt', 'a')
+
+send_message(bot, chat_id, 'weeeeeeeeee')
 
 while(1):
     # get live event odds
@@ -69,13 +79,17 @@ while(1):
                                 text_match = create_text(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT)
                                 write_to_file_profittable_matches(text_match)
                                 profittable_matches_count += 1
+                                # file update
                                 write_log(f_log, 'MATCH FOUND: ' +'\n\n' + text_match)
-                                write_log(f_log, 'FOUND MATCHES AMOUNT: ' +
-                                          str(profittable_matches_count))
+                                write_log(f_log, 'FOUND MATCHES AMOUNT: ' + str(profittable_matches_count))
                                 # when the match ends ...
                                 profit = WIN_AMOUNT - (stake_A + stake_B)
                                 EURO_BALANCE += stake_A + stake_B
                                 EURO_BALANCE += profit
+                                # telegram message
+                                send_message(bot, chat_id, text_match)
+                                send_message(bot, chat_id, 'current balance: ' + str(round(EURO_BALANCE, 2)) + '€')
+
             i_key += 1
             write_log(f_log, 'END API fetch N: ' + str(API_response_fetch))
             sleep(five_min)

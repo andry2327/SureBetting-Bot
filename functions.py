@@ -1,6 +1,7 @@
 from contextlib import nullcontext
 from datetime import datetime
 from requests import get
+from my_API_keys import *
 import json
 from itertools import combinations
 
@@ -184,3 +185,10 @@ def write_log(f_log, string):
     f_log.write(datetime_format(datetime.now()) + ': ')
     f_log.write(str(string))
     f_log.write('\n')
+
+# Telegram
+
+def send_message(bot, chat_id, message):
+    bot.sendMessage(chat_id, message)
+
+        

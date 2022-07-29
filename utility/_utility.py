@@ -36,7 +36,7 @@ print_json_to_file(list(d), 'utility/C_simple.json')
 
 upcoming_matches = mathches_short_order_by_points(upcoming_matches)
 print_json_to_file(upcoming_matches, 'utility/upcoming_matches.json')
-print(upcoming_matches[i_deb]["points"]["2.5"])
+# print(upcoming_matches[i_deb]["points"]["2.5"])
 print('N: '+str(len(upcoming_matches[i_deb]["points"]["2.5"]))+'\n')
 c = combinations(upcoming_matches[i_deb]["points"]["2.5"], 2)
 print_json_to_file(list(c), 'utility/combination.json')

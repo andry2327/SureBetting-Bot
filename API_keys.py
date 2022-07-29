@@ -9,4 +9,5 @@ key1 = 'YOUR_API_KEY_1'
 key2 = 'YOUR_API_KEY_2' # ...you can add as many api keys as you need...
 
 keys_list = [key1, key2]
-
+token = ''  # Telegram bot token
+chat_id = -1 # replace with channel id
