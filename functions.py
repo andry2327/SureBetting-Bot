@@ -10,6 +10,9 @@ from itertools import combinations
 def datetime_format(datetime):
     return str(datetime.strftime("%d/%m/%Y %H:%M:%S"))
 
+def bet_id_format(match_id, points, b1, q1, b2, q2):
+    return str(match_id)+'_'+str(points)+'_'+str(b1)+'_'+str(q1)+'_'+str(b2)+'_'+str(q2)
+
 # HTML API response 
 
 def get_API_response(API_KEY):

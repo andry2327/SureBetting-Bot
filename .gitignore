@@ -3,3 +3,5 @@
 /__pycache__
 /temp_log.json
 /profittable_matches.json
+/temp.py
+/exec.log
