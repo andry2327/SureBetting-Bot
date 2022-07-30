@@ -122,7 +122,7 @@ while(1):
                                 logger.info('fetch N ' + str(API_response_fetch) +
                                             ', MATCH ' + str(match_index) + ': NO FOUND')
                 match_index += 1
-            logger.info('END API fetch N: ' + str(API_response_fetch) + ', balance: ' + str(EURO_BALANCE) + '€')
+            logger.info('END API fetch N: ' + str(API_response_fetch) + ', balance: ' + str(round(EURO_BALANCE, 2)) + '€')
             i_key += 1
             sleep(five_min)
     i_key = 0
