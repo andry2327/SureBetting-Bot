@@ -122,6 +122,5 @@ while(1):
                 match_index += 1
             logger.info('END API fetch N: ' + str(API_response_fetch) + ', balance: ' + str(EURO_BALANCE) + '€')
             i_key += 1
-            print('i_key: '+str(i_key))
             sleep(five_min)
     i_key = 0
