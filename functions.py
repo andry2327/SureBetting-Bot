@@ -205,7 +205,7 @@ def send_message(bot, chat_id, message):
         except telepot.exception.TelegramError as e:
             raise e
         except Exception as e:
-            time.sleep(1) # wait 1 more second to send again
+            time.sleep(60) # wait 1 more second to send again
 
 
     #bot.sendMessage(chat_id, message)

@@ -115,7 +115,9 @@ while(1):
                                 EURO_BALANCE += profit
                                 # telegram message
                                 send_message(bot, chat_id, text_match)
+                                sleep(10)
                                 send_message(bot, chat_id, 'current balance: ' + str(round(EURO_BALANCE, 2)) + '€')
+                                sleep(30)
                             else:
                                 logger.info('fetch N ' + str(API_response_fetch) +
                                             ', MATCH ' + str(match_index) + ': NO FOUND')
