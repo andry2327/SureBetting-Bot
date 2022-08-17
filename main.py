@@ -25,6 +25,7 @@ ten_min = 10*60
 profittable_matches_count = 0
 API_response_fetch = 0
 EURO_STARTING_BALANCE = 10000  
+PROFIT_PERCENTAGE_UPPER_LIMIT = 0.2
 EURO_STARTING_BALANCE = input('Insert your starting balance in € (-1 to start with 10000€): ')
 
 if(float(EURO_STARTING_BALANCE) == -1):
@@ -95,29 +96,30 @@ while(1):
                             if(is_bookmakers_combinations_profitable(points_elem) and 
                                 (bet_id_format(match['id'], points_key, points_elem['bookmaker_1'], points_elem['totals']['Over_1'], points_elem['bookmaker_2'], points_elem['totals']['Under_2'])
                                     not in profittable_matches_bet_list)):
-                                profittable_matches_bet_list.append(bet_id_format(
-                                    match['id'], points_key, points_elem['bookmaker_1'], points_elem['totals']['Over_1'], points_elem['bookmaker_2'], points_elem['totals']['Under_2']))
-                                # win, bet amount and info
-                                WIN_AMOUNT = EURO_BALANCE*BALANCE_AMOUNT_RATIO
-                                stake_A = get_stake_from_quote(points_elem['totals']['Over_1'], WIN_AMOUNT)
-                                stake_B = get_stake_from_quote(points_elem['totals']['Under_2'], WIN_AMOUNT)
-                                EURO_BALANCE -= stake_A + stake_B
-                                text_match = create_text(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT)
-                                write_to_file_profittable_matches(text_match)
-                                profittable_matches_count += 1
-                               
-                                # file update
-                                logger.info('MATCH FOUND: ' + '\n\n' + text_match)
-                                logger.info('FOUND MATCHES AMOUNT: ' + str(profittable_matches_count))
-                                # when the match ends ...
-                                profit = WIN_AMOUNT - (stake_A + stake_B)
-                                EURO_BALANCE += stake_A + stake_B
-                                EURO_BALANCE += profit
-                                # telegram message
-                                send_message(bot, chat_id, text_match)
-                                sleep(10)
-                                send_message(bot, chat_id, 'current balance: ' + str(round(EURO_BALANCE, 2)) + '€')
-                                sleep(30)
+                                if(get_profits_percentage(points_elem['totals']['Over_1'], points_elem['totals']['Under_2']) > PROFIT_PERCENTAGE_UPPER_LIMIT):
+                                    profittable_matches_bet_list.append(bet_id_format(
+                                        match['id'], points_key, points_elem['bookmaker_1'], points_elem['totals']['Over_1'], points_elem['bookmaker_2'], points_elem['totals']['Under_2']))
+                                    # win, bet amount and info
+                                    WIN_AMOUNT = EURO_BALANCE*BALANCE_AMOUNT_RATIO
+                                    stake_A = get_stake_from_quote(points_elem['totals']['Over_1'], WIN_AMOUNT)
+                                    stake_B = get_stake_from_quote(points_elem['totals']['Under_2'], WIN_AMOUNT)
+                                    EURO_BALANCE -= stake_A + stake_B
+                                    text_match = create_text(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT)
+                                    write_to_file_profittable_matches(text_match)
+                                    profittable_matches_count += 1
+                                
+                                    # file update
+                                    logger.info('MATCH FOUND: ' + '\n\n' + text_match)
+                                    logger.info('FOUND MATCHES AMOUNT: ' + str(profittable_matches_count))
+                                    # when the match ends ...
+                                    profit = WIN_AMOUNT - (stake_A + stake_B)
+                                    EURO_BALANCE += stake_A + stake_B
+                                    EURO_BALANCE += profit
+                                    # telegram message
+                                    send_message(bot, chat_id, text_match)
+                                    sleep(10)
+                                    send_message(bot, chat_id, 'current balance: ' + str(round(EURO_BALANCE, 2)) + '€')
+                                    sleep(30)
                             else:
                                 logger.info('fetch N ' + str(API_response_fetch) +
                                             ', MATCH ' + str(match_index) + ': NO FOUND')
