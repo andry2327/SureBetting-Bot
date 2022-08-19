@@ -28,7 +28,7 @@ ten_min = 10*60
 profittable_matches_count = 0
 API_response_fetch = 0
 EURO_STARTING_BALANCE = 10000  
-PROFIT_PERCENTAGE_UPPER_LIMIT = 0.2
+PROFIT_PERCENTAGE_UPPER_LIMIT = 0.2 # only matches with al least 2% profit will be shown on output
 EURO_STARTING_BALANCE = input('Insert your starting balance in € (-1 to start with 10000€): ')
 
 if(float(EURO_STARTING_BALANCE) == -1):
@@ -51,11 +51,20 @@ logger.setLevel(logging.INFO)
 
 logger.info("START .py script\n\n")
 
+# remove empty str in keys_list
+keys_list = list(filter(None, keys_list))
+
 while(1):
     # get live event odds
     while(i_key in range(0, len(keys_list))):
         if(str(datetime.now().strftime("%d")) != curr_day):
             curr_day = str(datetime.now().strftime("%d"))
+            # it updates the balance every new day, adding previous day bet returns
+            for gain in list(map(lambda x: x['EURO_back'], profittable_matches_bet_list)):
+                EURO_BALANCE += gain
+            send_message(bot, chat_id, 'BALANCE UPDATE -> current balance: ' +
+                         str(round(EURO_BALANCE, 2)) + '€')
+            sleep(10)
             profittable_matches_bet_list.clear() # list reset every day
         response = get_API_response(keys_list[i_key])  # API call cost = 0
         if(remaning_requests(response) <= 0):
@@ -92,16 +101,17 @@ while(1):
 
             # get profittable matches
             match_index = 0
+            bet_info = {}
             for match in upcoming_matches_comb:
                 if (match['points']):
                     for points_key, points in match['points'].items():
                         for points_elem in points:
-                            if(is_bookmakers_combinations_profitable(points_elem) and 
-                                (bet_id_format(match['id'], points_key, points_elem['bookmaker_1'], points_elem['totals']['Over_1'], points_elem['bookmaker_2'], points_elem['totals']['Under_2'])
-                                    not in profittable_matches_bet_list)):
-                                if(get_profits_percentage(points_elem['totals']['Over_1'], points_elem['totals']['Under_2']) > PROFIT_PERCENTAGE_UPPER_LIMIT):
-                                    profittable_matches_bet_list.append(bet_id_format(
-                                        match['id'], points_key, points_elem['bookmaker_1'], points_elem['totals']['Over_1'], points_elem['bookmaker_2'], points_elem['totals']['Under_2']))
+                            bet_info['key'] = bet_id_format(
+                                match['id'], points_key, points_elem['bookmaker_1'], points_elem['totals']['Over_1'], points_elem['bookmaker_2'], points_elem['totals']['Under_2'])
+                            if(is_bookmakers_combinations_profitable(points_elem) and (bet_info['key'] not in list(map(lambda x: x['key'], profittable_matches_bet_list)))):
+                                bet_profit_percentage = get_profits_percentage(points_elem['totals']['Over_1'], points_elem['totals']['Under_2'])
+                                if(bet_profit_percentage > PROFIT_PERCENTAGE_UPPER_LIMIT):
+                                    bet_info['perc'] = bet_profit_percentage
                                     # win, bet amount and info
                                     WIN_AMOUNT = EURO_BALANCE*BALANCE_AMOUNT_RATIO
                                     stake_A = get_stake_from_quote(points_elem['totals']['Over_1'], WIN_AMOUNT)
@@ -110,14 +120,17 @@ while(1):
                                     text_match = create_text(match, points_key, points_elem, stake_A, stake_B, WIN_AMOUNT)
                                     write_to_file_profittable_matches(text_match)
                                     profittable_matches_count += 1
+
+                                    profit = WIN_AMOUNT - (stake_A + stake_B)
+                                    sum_A_B_profit = stake_A + stake_B + profit
+                                    bet_info['EURO_back'] = sum_A_B_profit
+
+                                    profittable_matches_bet_list.append( bet_info)
                                 
                                     # file update
                                     logger.info('MATCH FOUND: ' + '\n\n' + text_match)
                                     logger.info('FOUND MATCHES AMOUNT: ' + str(profittable_matches_count))
-                                    # when the match ends ...
-                                    profit = WIN_AMOUNT - (stake_A + stake_B)
-                                    EURO_BALANCE += stake_A + stake_B
-                                    EURO_BALANCE += profit
+
                                     # telegram message
                                     send_message(bot, chat_id, text_match)
                                     sleep(10)
