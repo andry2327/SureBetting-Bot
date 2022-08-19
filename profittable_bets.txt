@@ -32974,3 +32974,179 @@ BET:
 
 ----------------------------------------------------------------------------------------
 
+SPORT INFO: Ekstraklasa - Poland
+MATCH: Jagiellonia Białystok vs Miedź Legnica
+DATE, TIME: 2022-08-19T16:00:00Z
+
+PROFIT: 0.24%
+
+
+BET:
+   bet OVER 2.5 on bookmaker ONEXBET (quote: 2.02)
+   STAKE: bet 4.95€ for a total bet win of 10.0€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.99)
+   STAKE: bet 5.03€ for a total bet win of 10.0€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ekstraklasa - Poland
+MATCH: Jagiellonia Białystok vs Miedź Legnica
+DATE, TIME: 2022-08-19T16:01:01Z
+
+PROFIT: 7.64%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MYBOOKIEAG (quote: 1.94)
+   STAKE: bet 5.15€ for a total bet win of 10.0€
+
+   bet UNDER 2.5 on bookmaker UNIBET (quote: 2.45)
+   STAKE: bet 4.08€ for a total bet win of 10.0€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ekstraklasa - Poland
+MATCH: Jagiellonia Białystok vs Miedź Legnica
+DATE, TIME: 2022-08-19T16:01:01Z
+
+PROFIT: 3.0%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MYBOOKIEAG (quote: 1.94)
+   STAKE: bet 4.68€ for a total bet win of 9.08€
+
+   bet UNDER 2.5 on bookmaker UNIBET (quote: 2.2)
+   STAKE: bet 4.13€ for a total bet win of 9.08€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga 2 - Germany
+MATCH: 1. FC Magdeburg vs Hannover 96
+DATE, TIME: 2022-08-19T16:30:17Z
+
+PROFIT: 4.52%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MYBOOKIEAG (quote: 2.07)
+   STAKE: bet 3.96€ for a total bet win of 8.2€
+
+   bet UNDER 3.5 on bookmaker UNIBET (quote: 2.12)
+   STAKE: bet 3.87€ for a total bet win of 8.2€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga 2 - Germany
+MATCH: 1. FC Magdeburg vs Hannover 96
+DATE, TIME: 2022-08-19T16:30:17Z
+
+PROFIT: 2.36%
+
+
+BET:
+   bet OVER 3.5 on bookmaker UNIBET (quote: 2.25)
+   STAKE: bet 3.29€ for a total bet win of 7.41€
+
+   bet UNDER 3.5 on bookmaker PINNACLE (quote: 1.88)
+   STAKE: bet 3.94€ for a total bet win of 7.41€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ekstraklasa - Poland
+MATCH: Jagiellonia Białystok vs Miedź Legnica
+DATE, TIME: 2022-08-19T16:01:01Z
+
+PROFIT: 2.94%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.16)
+   STAKE: bet 3.1€ for a total bet win of 6.69€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.97)
+   STAKE: bet 3.4€ for a total bet win of 6.69€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ekstraklasa - Poland
+MATCH: Jagiellonia Białystok vs Miedź Legnica
+DATE, TIME: 2022-08-19T16:01:01Z
+
+PROFIT: 13.84%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.55)
+   STAKE: bet 2.37€ for a total bet win of 6.04€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 2.13)
+   STAKE: bet 2.84€ for a total bet win of 6.04€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga 2 - Germany
+MATCH: 1. FC Magdeburg vs Hannover 96
+DATE, TIME: 2022-08-19T16:30:17Z
+
+PROFIT: 8.21%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MYBOOKIEAG (quote: 2.07)
+   STAKE: bet 2.67€ for a total bet win of 5.52€
+
+   bet UNDER 3.5 on bookmaker UNIBET (quote: 2.3)
+   STAKE: bet 2.4€ for a total bet win of 5.52€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ekstraklasa - Poland
+MATCH: Jagiellonia Białystok vs Miedź Legnica
+DATE, TIME: 2022-08-19T16:01:01Z
+
+PROFIT: 13.84%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.55)
+   STAKE: bet 1.97€ for a total bet win of 5.01€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 2.13)
+   STAKE: bet 2.35€ for a total bet win of 5.01€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ekstraklasa - Poland
+MATCH: Jagiellonia Białystok vs Miedź Legnica
+DATE, TIME: 2022-08-19T16:01:01Z
+
+PROFIT: 19.42%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 4.75)
+   STAKE: bet 0.96€ for a total bet win of 4.58€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.68)
+   STAKE: bet 2.73€ for a total bet win of 4.58€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ekstraklasa - Poland
+MATCH: Jagiellonia Białystok vs Miedź Legnica
+DATE, TIME: 2022-08-19T16:01:01Z
+
+PROFIT: 19.42%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 4.75)
+   STAKE: bet 0.89€ for a total bet win of 4.21€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.68)
+   STAKE: bet 2.51€ for a total bet win of 4.21€
+
+----------------------------------------------------------------------------------------
+

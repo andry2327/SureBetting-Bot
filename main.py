@@ -21,6 +21,8 @@ markets = ['h2h', 'totals'] # I will only use these two type of bets to make it 
 
 profittable_matches_bet_list = []
 curr_day = str(datetime.now().strftime("%d"))
+curr_hour = int(datetime.now().strftime("%-H"))
+HOUR_INTERVAL = 3
 
 i_key = 0
 five_min = 5*60
@@ -28,7 +30,7 @@ ten_min = 10*60
 profittable_matches_count = 0
 API_response_fetch = 0
 EURO_STARTING_BALANCE = 10000  
-PROFIT_PERCENTAGE_UPPER_LIMIT = 0.2 # only matches with al least 2% profit will be shown on output
+PROFIT_PERCENTAGE_UPPER_LIMIT = 2 # only matches with al least 2% profit will be shown on output
 EURO_STARTING_BALANCE = input('Insert your starting balance in € (-1 to start with 10000€): ')
 
 if(float(EURO_STARTING_BALANCE) == -1):
@@ -57,15 +59,16 @@ keys_list = list(filter(None, keys_list))
 while(1):
     # get live event odds
     while(i_key in range(0, len(keys_list))):
-        if(str(datetime.now().strftime("%d")) != curr_day):
-            curr_day = str(datetime.now().strftime("%d"))
-            # it updates the balance every new day, adding previous day bet returns
+        if(int(datetime.now().strftime("%-H")) == curr_hour + HOUR_INTERVAL):
+            curr_hour = int(datetime.now().strftime("%-H"))
+            # it updates the balance every HOUR_INTERVAL hours, adding previous bet returns to EURO_BALANCE
             for gain in list(map(lambda x: x['EURO_back'], profittable_matches_bet_list)):
                 EURO_BALANCE += gain
             send_message(bot, chat_id, 'BALANCE UPDATE -> current balance: ' +
                          str(round(EURO_BALANCE, 2)) + '€')
             sleep(10)
             profittable_matches_bet_list.clear() # list reset every day
+            
         response = get_API_response(keys_list[i_key])  # API call cost = 0
         if(remaning_requests(response) <= 0):
             i_key += 1  # use next API key
@@ -132,10 +135,10 @@ while(1):
                                     logger.info('FOUND MATCHES AMOUNT: ' + str(profittable_matches_count))
 
                                     # telegram message
-                                    send_message(bot, chat_id, text_match)
+                                    text_current_balance = '\n\ncurrent balance: ' + str(round(EURO_BALANCE, 2)) + '€'
+                                    send_message(
+                                        bot, chat_id, text_match + text_current_balance)
                                     sleep(10)
-                                    send_message(bot, chat_id, 'current balance: ' + str(round(EURO_BALANCE, 2)) + '€')
-                                    sleep(30)
                             else:
                                 logger.info('fetch N ' + str(API_response_fetch) +
                                             ', MATCH ' + str(match_index) + ': NO FOUND')
