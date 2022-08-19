@@ -1,6 +1,9 @@
 from time import sleep
 from datetime import datetime
-from my_API_keys import keys_list, token
+from API_keys import keys_list, token
+from pathlib import Path
+if Path('my_API_keys.py').exists():
+   from my_API_keys import keys_list, token
 from functions import *
 import logging
 

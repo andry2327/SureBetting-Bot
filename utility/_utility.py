@@ -47,3 +47,7 @@ print_json_to_file(list(d), 'utility/C_simple.json')
 print('C_simple.json len: '+str(len(list(d)))+'\n')  # should be N*(N-1)
 
 upcoming_matches_comb = get_data_from_json('utility/profittable_matches.json')  # DEBUG
+
+# get remining request 
+for key in keys_list:
+    print(remaning_requests(get_API_response(key)))

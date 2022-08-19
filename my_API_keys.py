@@ -32,5 +32,5 @@ keys_list = [key1, key2, key3, key4, key5,
              key16, key17, key18, key19, key20]
 
 apdb_API_key = 'beeb3ea9-360e-4324-b531-02d28143411e' # 10k req/month
-token = '5532535981:AAGhAITVjrluni05EkyJfB5Fva0lHoyqsrI'  # Telegram bot token
+token = '5532535981:AAH1xRCL2HeDbtshq2YcuGfBiB11pL5F5N4'  # Telegram bot token
 chat_id = -1001712610006
