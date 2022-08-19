@@ -33150,3 +33150,435 @@ BET:
 
 ----------------------------------------------------------------------------------------
 
+SPORT INFO: League of Ireland
+MATCH: Shelbourne Dublin vs Bohemians
+DATE, TIME: 2022-08-19T18:49:22Z
+
+PROFIT: 17.31%
+
+
+BET:
+   bet OVER 2.5 on bookmaker SPORT888 (quote: 2.3)
+   STAKE: bet 4.35€ for a total bet win of 10.0€
+
+   bet UNDER 2.5 on bookmaker UNIBET (quote: 2.55)
+   STAKE: bet 3.92€ for a total bet win of 10.0€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga - Germany
+MATCH: Borussia Monchengladbach vs Hertha Berlin
+DATE, TIME: 2022-08-19T18:31:21Z
+
+PROFIT: 4.61%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 1.88)
+   STAKE: bet 4.88€ for a total bet win of 9.17€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 2.37)
+   STAKE: bet 3.87€ for a total bet win of 9.17€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: League of Ireland
+MATCH: Drogheda United vs Derry City
+DATE, TIME: 2022-08-19T18:46:52Z
+
+PROFIT: 7.32%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.48)
+   STAKE: bet 3.35€ for a total bet win of 8.3€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.91)
+   STAKE: bet 4.34€ for a total bet win of 8.3€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Turkey Super League
+MATCH: Ümraniyespor vs Galatasaray
+DATE, TIME: 2022-08-19T18:05:01Z
+
+PROFIT: 3.07%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 2.23)
+   STAKE: bet 3.38€ for a total bet win of 7.53€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.92)
+   STAKE: bet 3.92€ for a total bet win of 7.53€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga - Germany
+MATCH: Borussia Monchengladbach vs Hertha Berlin
+DATE, TIME: 2022-08-19T18:31:21Z
+
+PROFIT: 3.52%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MATCHBOOK (quote: 3.05)
+   STAKE: bet 2.23€ for a total bet win of 6.8€
+
+   bet UNDER 3.5 on bookmaker MYBOOKIEAG (quote: 1.57)
+   STAKE: bet 4.33€ for a total bet win of 6.8€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: La Liga - Spain
+MATCH: Espanyol vs Rayo Vallecano
+DATE, TIME: 2022-08-19T18:00:26Z
+
+PROFIT: 10.14%
+
+
+BET:
+   bet OVER 1.5 on bookmaker MYBOOKIEAG (quote: 1.83)
+   STAKE: bet 3.36€ for a total bet win of 6.14€
+
+   bet UNDER 1.5 on bookmaker MATCHBOOK (quote: 2.84)
+   STAKE: bet 2.16€ for a total bet win of 6.14€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga - Germany
+MATCH: Borussia Monchengladbach vs Hertha Berlin
+DATE, TIME: 2022-08-19T18:31:21Z
+
+PROFIT: 4.05%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MATCHBOOK (quote: 3.1)
+   STAKE: bet 1.8€ for a total bet win of 5.59€
+
+   bet UNDER 3.5 on bookmaker MYBOOKIEAG (quote: 1.57)
+   STAKE: bet 3.56€ for a total bet win of 5.59€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Lyon vs Troyes
+DATE, TIME: 2022-08-19T19:00:02Z
+
+PROFIT: 4.47%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MYBOOKIEAG (quote: 2.15)
+   STAKE: bet 2.35€ for a total bet win of 5.05€
+
+   bet UNDER 3.5 on bookmaker UNIBET (quote: 2.04)
+   STAKE: bet 2.48€ for a total bet win of 5.05€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: La Liga 2 - Spain
+MATCH: Villarreal vs SD Eibar
+DATE, TIME: 2022-08-19T18:00:11Z
+
+PROFIT: 10.85%
+
+
+BET:
+   bet OVER 3.5 on bookmaker UNIBET (quote: 2.95)
+   STAKE: bet 1.55€ for a total bet win of 4.57€
+
+   bet UNDER 3.5 on bookmaker PINNACLE (quote: 1.81)
+   STAKE: bet 2.53€ for a total bet win of 4.57€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: La Liga - Spain
+MATCH: Espanyol vs Rayo Vallecano
+DATE, TIME: 2022-08-19T18:00:26Z
+
+PROFIT: 8.86%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 3.4)
+   STAKE: bet 1.22€ for a total bet win of 4.16€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.62)
+   STAKE: bet 2.57€ for a total bet win of 4.16€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Belgium First Div
+MATCH: Eupen vs Seraing United
+DATE, TIME: 2022-08-19T18:45:08Z
+
+PROFIT: 8.35%
+
+
+BET:
+   bet OVER 4.5 on bookmaker UNIBET (quote: 2.32)
+   STAKE: bet 1.63€ for a total bet win of 3.78€
+
+   bet UNDER 4.5 on bookmaker PINNACLE (quote: 2.06)
+   STAKE: bet 1.84€ for a total bet win of 3.78€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga - Germany
+MATCH: Borussia Monchengladbach vs Hertha Berlin
+DATE, TIME: 2022-08-19T18:31:21Z
+
+PROFIT: 4.75%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 2.12)
+   STAKE: bet 1.62€ for a total bet win of 3.44€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 2.08)
+   STAKE: bet 1.65€ for a total bet win of 3.44€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga - Germany
+MATCH: Borussia Monchengladbach vs Hertha Berlin
+DATE, TIME: 2022-08-19T18:31:21Z
+
+PROFIT: 18.02%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 2.95)
+   STAKE: bet 1.05€ for a total bet win of 3.11€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 2.08)
+   STAKE: bet 1.5€ for a total bet win of 3.11€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga - Germany
+MATCH: Borussia Monchengladbach vs Hertha Berlin
+DATE, TIME: 2022-08-19T18:31:21Z
+
+PROFIT: 29.2%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 4.4)
+   STAKE: bet 0.65€ for a total bet win of 2.86€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 2.08)
+   STAKE: bet 1.37€ for a total bet win of 2.86€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Belgium First Div
+MATCH: Eupen vs Seraing United
+DATE, TIME: 2022-08-19T18:45:08Z
+
+PROFIT: 13.79%
+
+
+BET:
+   bet OVER 4.5 on bookmaker PINNACLE (quote: 3.52)
+   STAKE: bet 0.75€ for a total bet win of 2.65€
+
+   bet UNDER 4.5 on bookmaker UNIBET (quote: 1.73)
+   STAKE: bet 1.53€ for a total bet win of 2.65€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: League of Ireland
+MATCH: Drogheda United vs Derry City
+DATE, TIME: 2022-08-19T18:46:52Z
+
+PROFIT: 28.75%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 10.5)
+   STAKE: bet 0.23€ for a total bet win of 2.42€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.62)
+   STAKE: bet 1.5€ for a total bet win of 2.42€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: League of Ireland
+MATCH: Drogheda United vs Derry City
+DATE, TIME: 2022-08-19T18:46:52Z
+
+PROFIT: 28.75%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 10.5)
+   STAKE: bet 0.21€ for a total bet win of 2.25€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.62)
+   STAKE: bet 1.39€ for a total bet win of 2.25€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: League of Ireland
+MATCH: Shelbourne Dublin vs Bohemians
+DATE, TIME: 2022-08-19T18:49:22Z
+
+PROFIT: 12.31%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 8.0)
+   STAKE: bet 0.26€ for a total bet win of 2.09€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.33)
+   STAKE: bet 1.57€ for a total bet win of 2.09€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Championship
+MATCH: Norwich City vs Millwall
+DATE, TIME: 2022-08-19T19:01:23Z
+
+PROFIT: 23.95%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 9.0)
+   STAKE: bet 0.21€ for a total bet win of 1.91€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.54)
+   STAKE: bet 1.24€ for a total bet win of 1.91€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: League of Ireland
+MATCH: Finn Harps vs Sligo Rovers
+DATE, TIME: 2022-08-19T19:02:56Z
+
+PROFIT: 8.87%
+
+
+BET:
+   bet OVER 5.5 on bookmaker UNIBET (quote: 8.5)
+   STAKE: bet 1.29€ for a total bet win of 10.95€
+
+   bet UNDER 5.5 on bookmaker PINNACLE (quote: 1.26)
+   STAKE: bet 8.69€ for a total bet win of 10.95€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Primeira Liga - Portugal
+MATCH: Estoril vs Rio Ave FC
+DATE, TIME: 2022-08-19T19:16:10Z
+
+PROFIT: 12.06%
+
+
+BET:
+   bet OVER 4.5 on bookmaker UNIBET (quote: 6.25)
+   STAKE: bet 1.59€ for a total bet win of 9.95€
+
+   bet UNDER 4.5 on bookmaker PINNACLE (quote: 1.39)
+   STAKE: bet 7.16€ for a total bet win of 9.95€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Primeira Liga - Portugal
+MATCH: Estoril vs Rio Ave FC
+DATE, TIME: 2022-08-19T19:16:10Z
+
+PROFIT: 12.06%
+
+
+BET:
+   bet OVER 4.5 on bookmaker UNIBET (quote: 6.25)
+   STAKE: bet 1.45€ for a total bet win of 9.07€
+
+   bet UNDER 4.5 on bookmaker PINNACLE (quote: 1.39)
+   STAKE: bet 6.53€ for a total bet win of 9.07€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: La Liga - Spain
+MATCH: Sevilla vs Valladolid
+DATE, TIME: 2022-08-19T20:00:59Z
+
+PROFIT: 2.92%
+
+
+BET:
+   bet OVER 0.5 on bookmaker UNIBET (quote: 1.9)
+   STAKE: bet 4.36€ for a total bet win of 8.28€
+
+   bet UNDER 0.5 on bookmaker MYBOOKIEAG (quote: 2.25)
+   STAKE: bet 3.68€ for a total bet win of 8.28€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: La Liga 2 - Spain
+MATCH: Alavés vs CD Mirandés
+DATE, TIME: 2022-08-19T20:01:52Z
+
+PROFIT: 12.89%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 4.0)
+   STAKE: bet 1.87€ for a total bet win of 7.47€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.61)
+   STAKE: bet 4.64€ for a total bet win of 7.47€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: La Liga 2 - Spain
+MATCH: Alavés vs CD Mirandés
+DATE, TIME: 2022-08-19T20:01:52Z
+
+PROFIT: 27.36%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 9.5)
+   STAKE: bet 0.72€ for a total bet win of 6.82€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.61)
+   STAKE: bet 4.24€ for a total bet win of 6.82€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: La Liga 2 - Spain
+MATCH: Alavés vs CD Mirandés
+DATE, TIME: 2022-08-19T20:01:52Z
+
+PROFIT: 27.36%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 9.5)
+   STAKE: bet 0.67€ for a total bet win of 6.33€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.61)
+   STAKE: bet 3.93€ for a total bet win of 6.33€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Brazil Série B
+MATCH: Ituano vs Grêmio Novorizontino
+DATE, TIME: 2022-08-19T22:00:30Z
+
+PROFIT: 4.84%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 2.45)
+   STAKE: bet 2.39€ for a total bet win of 5.87€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.84)
+   STAKE: bet 3.19€ for a total bet win of 5.87€
+
+----------------------------------------------------------------------------------------
+

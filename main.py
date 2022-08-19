@@ -68,7 +68,7 @@ while(1):
                          str(round(EURO_BALANCE, 2)) + '€')
             sleep(10)
             profittable_matches_bet_list.clear() # list reset every day
-            
+
         response = get_API_response(keys_list[i_key])  # API call cost = 0
         if(remaning_requests(response) <= 0):
             i_key += 1  # use next API key
@@ -128,7 +128,7 @@ while(1):
                                     sum_A_B_profit = stake_A + stake_B + profit
                                     bet_info['EURO_back'] = sum_A_B_profit
 
-                                    profittable_matches_bet_list.append( bet_info)
+                                    profittable_matches_bet_list.append(bet_info)
                                 
                                     # file update
                                     logger.info('MATCH FOUND: ' + '\n\n' + text_match)
