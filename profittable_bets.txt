@@ -33582,3 +33582,291 @@ BET:
 
 ----------------------------------------------------------------------------------------
 
+SPORT INFO: K League 1
+MATCH: Pohang Steelers vs Incheon United
+DATE, TIME: 2022-08-20T09:00:17Z
+
+PROFIT: 2.51%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.14)
+   STAKE: bet 4.67€ for a total bet win of 10.0€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.97)
+   STAKE: bet 5.08€ for a total bet win of 10.0€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: Pohang Steelers vs Incheon United
+DATE, TIME: 2022-08-20T09:00:17Z
+
+PROFIT: 10.26%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.6)
+   STAKE: bet 3.47€ for a total bet win of 9.03€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.95)
+   STAKE: bet 4.63€ for a total bet win of 9.03€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: Pohang Steelers vs Incheon United
+DATE, TIME: 2022-08-20T09:00:17Z
+
+PROFIT: 16.86%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 4.0)
+   STAKE: bet 2.05€ for a total bet win of 8.22€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.72)
+   STAKE: bet 4.78€ for a total bet win of 8.22€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: Pohang Steelers vs Incheon United
+DATE, TIME: 2022-08-20T09:00:17Z
+
+PROFIT: 29.36%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 8.0)
+   STAKE: bet 0.94€ for a total bet win of 7.53€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.72)
+   STAKE: bet 4.38€ for a total bet win of 7.53€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: J League
+MATCH: Shimizu S Pulse vs Kashiwa Reysol
+DATE, TIME: 2022-08-20T09:03:07Z
+
+PROFIT: 30.3%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 9.5)
+   STAKE: bet 0.74€ for a total bet win of 7.0€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.69)
+   STAKE: bet 4.14€ for a total bet win of 7.0€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga 2 - Germany
+MATCH: SV Sandhausen vs 1. FC Nürnberg
+DATE, TIME: 2022-08-20T11:00:02Z
+
+PROFIT: 4.33%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.28)
+   STAKE: bet 2.86€ for a total bet win of 6.51€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.93)
+   STAKE: bet 3.37€ for a total bet win of 6.51€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: J League
+MATCH: Hiroshima Sanfrecce FC vs Gamba Osaka
+DATE, TIME: 2022-08-20T10:03:29Z
+
+PROFIT: 6.14%
+
+
+BET:
+   bet OVER 4.5 on bookmaker UNIBET (quote: 2.32)
+   STAKE: bet 2.54€ for a total bet win of 5.89€
+
+   bet UNDER 4.5 on bookmaker PINNACLE (quote: 1.97)
+   STAKE: bet 2.99€ for a total bet win of 5.89€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Premiership - Scotland
+MATCH: Hibernian vs Rangers
+DATE, TIME: 2022-08-20T11:31:04Z
+
+PROFIT: 3.21%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 2.34)
+   STAKE: bet 2.28€ for a total bet win of 5.34€
+
+   bet UNDER 2.5 on bookmaker WILLIAMHILL (quote: 1.85)
+   STAKE: bet 2.88€ for a total bet win of 5.34€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: J League
+MATCH: Avispa Fukuoka vs Kawasaki Frontale
+DATE, TIME: 2022-08-20T10:03:08Z
+
+PROFIT: 19.63%
+
+
+BET:
+   bet OVER 5.5 on bookmaker UNIBET (quote: 3.8)
+   STAKE: bet 1.27€ for a total bet win of 4.82€
+
+   bet UNDER 5.5 on bookmaker PINNACLE (quote: 1.85)
+   STAKE: bet 2.61€ for a total bet win of 4.82€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: EPL
+MATCH: Tottenham Hotspur vs Wolverhampton Wanderers
+DATE, TIME: 2022-08-20T11:30:03Z
+
+PROFIT: 15.68%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 2.66)
+   STAKE: bet 1.67€ for a total bet win of 4.43€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 2.14)
+   STAKE: bet 2.07€ for a total bet win of 4.43€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Premiership - Scotland
+MATCH: Hibernian vs Rangers
+DATE, TIME: 2022-08-20T11:31:04Z
+
+PROFIT: 7.39%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 2.32)
+   STAKE: bet 4.71€ for a total bet win of 10.93€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 2.02)
+   STAKE: bet 5.41€ for a total bet win of 10.93€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: League 2
+MATCH: Hartlepool United vs Bradford City
+DATE, TIME: 2022-08-20T12:00:02Z
+
+PROFIT: 16.92%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MYBOOKIEAG (quote: 2.28)
+   STAKE: bet 4.35€ for a total bet win of 9.92€
+
+   bet UNDER 3.5 on bookmaker UNIBET (quote: 2.55)
+   STAKE: bet 3.89€ for a total bet win of 9.92€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: League 2
+MATCH: Hartlepool United vs Bradford City
+DATE, TIME: 2022-08-20T12:00:02Z
+
+PROFIT: 12.66%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MYBOOKIEAG (quote: 2.28)
+   STAKE: bet 3.99€ for a total bet win of 9.1€
+
+   bet UNDER 3.5 on bookmaker UNIBET (quote: 2.3)
+   STAKE: bet 3.96€ for a total bet win of 9.1€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: EPL
+MATCH: Tottenham Hotspur vs Wolverhampton Wanderers
+DATE, TIME: 2022-08-20T11:30:03Z
+
+PROFIT: 32.44%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 4.8)
+   STAKE: bet 1.73€ for a total bet win of 8.3€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 2.14)
+   STAKE: bet 3.88€ for a total bet win of 8.3€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga 2 - Germany
+MATCH: SV Sandhausen vs 1. FC Nürnberg
+DATE, TIME: 2022-08-20T11:00:02Z
+
+PROFIT: 18.02%
+
+
+BET:
+   bet OVER 2.5 on bookmaker PINNACLE (quote: 3.23)
+   STAKE: bet 2.4€ for a total bet win of 7.74€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.96)
+   STAKE: bet 3.95€ for a total bet win of 7.74€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga 2 - Germany
+MATCH: SC Paderborn vs Holstein Kiel
+DATE, TIME: 2022-08-20T11:00:01Z
+
+PROFIT: 16.35%
+
+
+BET:
+   bet OVER 9.5 on bookmaker UNIBET (quote: 5.6)
+   STAKE: bet 1.27€ for a total bet win of 7.11€
+
+   bet UNDER 9.5 on bookmaker PINNACLE (quote: 1.52)
+   STAKE: bet 4.68€ for a total bet win of 7.11€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga 2 - Germany
+MATCH: SC Paderborn vs Holstein Kiel
+DATE, TIME: 2022-08-20T11:00:01Z
+
+PROFIT: 16.35%
+
+
+BET:
+   bet OVER 9.5 on bookmaker UNIBET (quote: 5.6)
+   STAKE: bet 1.16€ for a total bet win of 6.51€
+
+   bet UNDER 9.5 on bookmaker PINNACLE (quote: 1.52)
+   STAKE: bet 4.28€ for a total bet win of 6.51€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: EPL
+MATCH: Tottenham Hotspur vs Wolverhampton Wanderers
+DATE, TIME: 2022-08-20T11:30:03Z
+
+PROFIT: 2.63%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 2.1)
+   STAKE: bet 2.84€ for a total bet win of 5.97€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 2.01)
+   STAKE: bet 2.97€ for a total bet win of 5.97€
+
+----------------------------------------------------------------------------------------
+

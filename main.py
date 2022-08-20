@@ -64,8 +64,8 @@ while(1):
             # it updates the balance every HOUR_INTERVAL hours, adding previous bet returns to EURO_BALANCE
             for gain in list(map(lambda x: x['EURO_back'], profittable_matches_bet_list)):
                 EURO_BALANCE += gain
-            send_message(bot, chat_id, 'BALANCE UPDATE -> current balance: ' +
-                         str(round(EURO_BALANCE, 2)) + '€')
+            logger.info('BALANCE UPDATE -> current balance: ' + str(round(EURO_BALANCE, 2)) + '€')
+            send_message(bot, chat_id, 'BALANCE UPDATE -> current balance: ' + str(round(EURO_BALANCE, 2)) + '€')
             sleep(10)
             profittable_matches_bet_list.clear() # list reset every day
 
@@ -135,7 +135,7 @@ while(1):
                                     logger.info('FOUND MATCHES AMOUNT: ' + str(profittable_matches_count))
 
                                     # telegram message
-                                    text_current_balance = '\n\ncurrent balance: ' + str(round(EURO_BALANCE, 2)) + '€'
+                                    text_current_balance = '\n Current balance: ' + str(round(EURO_BALANCE, 2)) + '€'
                                     send_message(
                                         bot, chat_id, text_match + text_current_balance)
                                     sleep(10)
