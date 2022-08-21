@@ -6,6 +6,15 @@ from _API_keys import *
 import json
 from itertools import combinations
 import telepot
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+session = requests.Session()
+retry = Retry(connect=3, backoff_factor=0.5)
+adapter = HTTPAdapter(max_retries=retry)
+session.mount('http://', adapter)
+session.mount('https://', adapter)
 
 headers = { # change your headers
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
@@ -23,18 +32,18 @@ def bet_id_format(match_id, points, b1, q1, b2, q2):
 
 def get_API_response(API_KEY):
     url = 'https://api.the-odds-api.com/v4/sports/?apiKey={}'.format(API_KEY)
-    response = get(url, headers)
+    response = session.get(url)
     return response
 
 def get_API_response_Sports(API_KEY):
     url = 'https://api.the-odds-api.com/v4/sports/?apiKey={}'.format(API_KEY)
-    response = get(url, headers)
+    response = session.get(url)
     return response
 
 def get_API_response_Odds(API_KEY, region, market):
     url = 'https://api.the-odds-api.com/v4/sports/upcoming/odds/?regions={}&markets={}&apiKey={}'.format(
         region, market, API_KEY)
-    response = get(url, headers)
+    response = session.get(url)
     return response
 
 def get_API_response_Scores(API_KEY, sport, days_from):  # set days_from = 0 if you don' need this option
@@ -42,7 +51,7 @@ def get_API_response_Scores(API_KEY, sport, days_from):  # set days_from = 0 if 
         url = 'https://api.the-odds-api.com/v4/sports/{}/scores/?apiKey={}'.format(sport, API_KEY)
     else:
         url = 'https://api.the-odds-api.com/v4/sports/{}/scores/?daysFrom={}&apiKey={}'.format(sport, days_from, API_KEY)
-    response = get(url, headers)
+    response = session.get(url)
     return response
 
 
@@ -205,9 +214,6 @@ def send_message(bot, chat_id, message):
         except telepot.exception.TelegramError as e:
             raise e
         except Exception as e:
-            time.sleep(60) # wait 1 more second to send again
-
+            time.sleep(60) # wait 1 minute second to send again
 
     #bot.sendMessage(chat_id, message)
-
-        

@@ -51,5 +51,20 @@ update frequency: 5 min
     This is because by winning these games, they progressed to the knockout stage of the competition and their chances of lifting the trophy increased.
     
 
+# EU bookmaker list:
 
+onexbet	
+sport888 https://www.888sport.it/#/home
+betclic
+betfair
+betonlineag
+betsson
+betvictor
+intertops
+marathonbet
+matchbook
+mybookieag
+pinnacle
+unibet
+williamhill https://www.williamhill.it/
 

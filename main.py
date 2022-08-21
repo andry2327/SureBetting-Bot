@@ -56,6 +56,8 @@ logger.info("START .py script\n\n")
 # remove empty str in keys_list
 keys_list = list(filter(None, keys_list))
 
+print('Bot running ...')
+
 while(1):
     # get live event odds
     while(i_key in range(0, len(keys_list))):

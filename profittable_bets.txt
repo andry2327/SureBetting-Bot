@@ -33870,3 +33870,643 @@ BET:
 
 ----------------------------------------------------------------------------------------
 
+SPORT INFO: K League 1
+MATCH: Sangju Sangmu FC vs Ulsan Hyundai FC
+DATE, TIME: 2022-08-21T10:00:10Z
+
+PROFIT: 4.9%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MYBOOKIEAG (quote: 2.37)
+   STAKE: bet 8.44€ for a total bet win of 20.0€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.89)
+   STAKE: bet 10.58€ for a total bet win of 20.0€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: FC Seoul vs Seongnam FC
+DATE, TIME: 2022-08-21T09:00:12Z
+
+PROFIT: 6.08%
+
+
+BET:
+   bet OVER 1.5 on bookmaker PINNACLE (quote: 2.39)
+   STAKE: bet 7.57€ for a total bet win of 18.1€
+
+   bet UNDER 1.5 on bookmaker MYBOOKIEAG (quote: 1.92)
+   STAKE: bet 9.43€ for a total bet win of 18.1€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: FC Seoul vs Seongnam FC
+DATE, TIME: 2022-08-21T09:00:12Z
+
+PROFIT: 6.08%
+
+
+BET:
+   bet OVER 1.5 on bookmaker PINNACLE (quote: 2.39)
+   STAKE: bet 6.86€ for a total bet win of 16.4€
+
+   bet UNDER 1.5 on bookmaker MYBOOKIEAG (quote: 1.92)
+   STAKE: bet 8.54€ for a total bet win of 16.4€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: Sangju Sangmu FC vs Ulsan Hyundai FC
+DATE, TIME: 2022-08-21T10:00:10Z
+
+PROFIT: 7.55%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MYBOOKIEAG (quote: 2.29)
+   STAKE: bet 8.73€ for a total bet win of 20.0€
+
+   bet UNDER 3.5 on bookmaker PINNACLE (quote: 2.05)
+   STAKE: bet 9.76€ for a total bet win of 20.0€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Superettan - Sweden
+MATCH: AFC Eskilstuna vs Utsiktens BK
+DATE, TIME: 2022-08-21T11:00:00Z
+
+PROFIT: 12.25%
+
+
+BET:
+   bet OVER 3.5 on bookmaker ONEXBET (quote: 2.4)
+   STAKE: bet 7.56€ for a total bet win of 18.15€
+
+   bet UNDER 3.5 on bookmaker UNIBET (quote: 2.17)
+   STAKE: bet 8.36€ for a total bet win of 18.15€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Strasbourg vs Stade de Reims
+DATE, TIME: 2022-08-21T11:00:04Z
+
+PROFIT: 3.89%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.3)
+   STAKE: bet 7.2€ for a total bet win of 16.56€
+
+   bet UNDER 2.5 on bookmaker ONEXBET (quote: 1.9)
+   STAKE: bet 8.71€ for a total bet win of 16.56€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: Sangju Sangmu FC vs Ulsan Hyundai FC
+DATE, TIME: 2022-08-21T10:00:10Z
+
+PROFIT: 9.63%
+
+
+BET:
+   bet OVER 4.5 on bookmaker UNIBET (quote: 2.65)
+   STAKE: bet 5.65€ for a total bet win of 14.97€
+
+   bet UNDER 4.5 on bookmaker PINNACLE (quote: 1.9)
+   STAKE: bet 7.88€ for a total bet win of 14.97€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: Sangju Sangmu FC vs Ulsan Hyundai FC
+DATE, TIME: 2022-08-21T10:00:10Z
+
+PROFIT: 11.89%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MYBOOKIEAG (quote: 2.29)
+   STAKE: bet 5.95€ for a total bet win of 13.61€
+
+   bet UNDER 3.5 on bookmaker UNIBET (quote: 2.25)
+   STAKE: bet 6.05€ for a total bet win of 13.61€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Strasbourg vs Stade de Reims
+DATE, TIME: 2022-08-21T11:00:04Z
+
+PROFIT: 13.01%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 3.55)
+   STAKE: bet 3.5€ for a total bet win of 12.41€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.7)
+   STAKE: bet 7.3€ for a total bet win of 12.41€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Belgium First Div
+MATCH: Club Brugge vs KV Kortrijk
+DATE, TIME: 2022-08-21T11:30:33Z
+
+PROFIT: 13.95%
+
+
+BET:
+   bet OVER 3.5 on bookmaker ONEXBET (quote: 2.37)
+   STAKE: bet 4.78€ for a total bet win of 11.33€
+
+   bet UNDER 3.5 on bookmaker UNIBET (quote: 2.28)
+   STAKE: bet 4.97€ for a total bet win of 11.33€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: Sangju Sangmu FC vs Ulsan Hyundai FC
+DATE, TIME: 2022-08-21T10:00:10Z
+
+PROFIT: 14.43%
+
+
+BET:
+   bet OVER 3.5 on bookmaker UNIBET (quote: 4.75)
+   STAKE: bet 2.18€ for a total bet win of 10.36€
+
+   bet UNDER 3.5 on bookmaker MYBOOKIEAG (quote: 1.55)
+   STAKE: bet 6.68€ for a total bet win of 10.36€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: K League 1
+MATCH: Sangju Sangmu FC vs Ulsan Hyundai FC
+DATE, TIME: 2022-08-21T10:00:10Z
+
+PROFIT: 14.43%
+
+
+BET:
+   bet OVER 3.5 on bookmaker UNIBET (quote: 4.75)
+   STAKE: bet 1.99€ for a total bet win of 9.47€
+
+   bet UNDER 3.5 on bookmaker MYBOOKIEAG (quote: 1.55)
+   STAKE: bet 6.11€ for a total bet win of 9.47€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: J League
+MATCH: Shonan Bellmare vs Kashima Antlers
+DATE, TIME: 2022-08-21T10:03:56Z
+
+PROFIT: 7.58%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 11.0)
+   STAKE: bet 1.94€ for a total bet win of 21.35€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.2)
+   STAKE: bet 17.79€ for a total bet win of 21.35€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Dutch Eredivisie
+MATCH: Groningen vs Go Ahead Eagles
+DATE, TIME: 2022-08-21T10:18:27Z
+
+PROFIT: 6.91%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 3.45)
+   STAKE: bet 5.62€ for a total bet win of 19.38€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.56)
+   STAKE: bet 12.42€ for a total bet win of 19.38€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Dutch Eredivisie
+MATCH: Groningen vs Go Ahead Eagles
+DATE, TIME: 2022-08-21T10:18:27Z
+
+PROFIT: 26.37%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 10.5)
+   STAKE: bet 1.67€ for a total bet win of 17.57€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.56)
+   STAKE: bet 11.26€ for a total bet win of 17.57€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Strasbourg vs Stade de Reims
+DATE, TIME: 2022-08-21T11:00:04Z
+
+PROFIT: 8.99%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 3.25)
+   STAKE: bet 5.01€ for a total bet win of 16.28€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.66)
+   STAKE: bet 9.81€ for a total bet win of 16.28€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Strasbourg vs Stade de Reims
+DATE, TIME: 2022-08-21T11:00:04Z
+
+PROFIT: 13.79%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 3.85)
+   STAKE: bet 3.84€ for a total bet win of 14.8€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.66)
+   STAKE: bet 8.91€ for a total bet win of 14.8€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Championship
+MATCH: Bristol City vs Cardiff City
+DATE, TIME: 2022-08-21T11:00:30Z
+
+PROFIT: 6.9%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MYBOOKIEAG (quote: 2.32)
+   STAKE: bet 5.83€ for a total bet win of 13.52€
+
+   bet UNDER 2.5 on bookmaker UNIBET (quote: 2.0)
+   STAKE: bet 6.76€ for a total bet win of 13.52€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Strasbourg vs Stade de Reims
+DATE, TIME: 2022-08-21T11:00:04Z
+
+PROFIT: 5.41%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 2.23)
+   STAKE: bet 5.5€ for a total bet win of 12.26€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 2.01)
+   STAKE: bet 6.1€ for a total bet win of 12.26€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Strasbourg vs Stade de Reims
+DATE, TIME: 2022-08-21T11:00:04Z
+
+PROFIT: 11.98%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 3.6)
+   STAKE: bet 3.08€ for a total bet win of 11.1€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.66)
+   STAKE: bet 6.69€ for a total bet win of 11.1€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Strasbourg vs Stade de Reims
+DATE, TIME: 2022-08-21T11:00:04Z
+
+PROFIT: 13.37%
+
+
+BET:
+   bet OVER 2.5 on bookmaker PINNACLE (quote: 3.79)
+   STAKE: bet 2.67€ for a total bet win of 10.13€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.66)
+   STAKE: bet 6.1€ for a total bet win of 10.13€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Strasbourg vs Stade de Reims
+DATE, TIME: 2022-08-21T11:00:04Z
+
+PROFIT: 13.37%
+
+
+BET:
+   bet OVER 2.5 on bookmaker PINNACLE (quote: 3.79)
+   STAKE: bet 6.04€ for a total bet win of 22.89€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.66)
+   STAKE: bet 13.79€ for a total bet win of 22.89€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga 2 - Germany
+MATCH: Hansa Rostock vs FC St. Pauli
+DATE, TIME: 2022-08-21T11:34:37Z
+
+PROFIT: 2.1%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 1.93)
+   STAKE: bet 10.83€ for a total bet win of 20.9€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 2.17)
+   STAKE: bet 9.63€ for a total bet win of 20.9€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Super League - China
+MATCH: Guangzhou Evergrande Taobao FC vs Shenzhen FC
+DATE, TIME: 2022-08-21T11:30:05Z
+
+PROFIT: 6.06%
+
+
+BET:
+   bet OVER 5.5 on bookmaker MATCHBOOK (quote: 3.0)
+   STAKE: bet 6.29€ for a total bet win of 18.86€
+
+   bet UNDER 5.5 on bookmaker PINNACLE (quote: 1.65)
+   STAKE: bet 11.43€ for a total bet win of 18.86€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Super League - China
+MATCH: Shanghai Greenland Shenhua FC vs Tianjin TEDA FC
+DATE, TIME: 2022-08-21T11:30:04Z
+
+PROFIT: 14.54%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 5.2)
+   STAKE: bet 3.29€ for a total bet win of 17.09€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.51)
+   STAKE: bet 11.32€ for a total bet win of 17.09€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Super League - China
+MATCH: Shanghai Greenland Shenhua FC vs Tianjin TEDA FC
+DATE, TIME: 2022-08-21T11:30:04Z
+
+PROFIT: 14.54%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 5.2)
+   STAKE: bet 3.01€ for a total bet win of 15.63€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.51)
+   STAKE: bet 10.35€ for a total bet win of 15.63€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Angers vs Brest
+DATE, TIME: 2022-08-21T13:00:02Z
+
+PROFIT: 4.45%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MYBOOKIEAG (quote: 1.98)
+   STAKE: bet 7.22€ for a total bet win of 14.29€
+
+   bet UNDER 2.5 on bookmaker MATCHBOOK (quote: 2.22)
+   STAKE: bet 6.44€ for a total bet win of 14.29€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Denmark Superliga
+MATCH: FC Nordsjaelland vs Silkeborg IF
+DATE, TIME: 2022-08-21T12:00:33Z
+
+PROFIT: 6.89%
+
+
+BET:
+   bet OVER 2.5 on bookmaker PINNACLE (quote: 2.62)
+   STAKE: bet 4.93€ for a total bet win of 12.93€
+
+   bet UNDER 2.5 on bookmaker UNIBET (quote: 1.82)
+   STAKE: bet 7.1€ for a total bet win of 12.93€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: EPL
+MATCH: West Ham United vs Brighton and Hove Albion
+DATE, TIME: 2022-08-21T13:00:05Z
+
+PROFIT: 2.9%
+
+
+BET:
+   bet OVER 2.5 on bookmaker PINNACLE (quote: 2.04)
+   STAKE: bet 5.75€ for a total bet win of 11.72€
+
+   bet UNDER 2.5 on bookmaker UNIBET (quote: 2.08)
+   STAKE: bet 5.64€ for a total bet win of 11.72€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Dutch Eredivisie
+MATCH: Sparta Rotterdam vs Ajax
+DATE, TIME: 2022-08-21T12:35:58Z
+
+PROFIT: 3.71%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 2.32)
+   STAKE: bet 4.56€ for a total bet win of 10.58€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.88)
+   STAKE: bet 5.63€ for a total bet win of 10.58€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: EPL
+MATCH: West Ham United vs Brighton and Hove Albion
+DATE, TIME: 2022-08-21T13:00:05Z
+
+PROFIT: 2.47%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 2.3)
+   STAKE: bet 10.46€ for a total bet win of 24.05€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 1.85)
+   STAKE: bet 13.0€ for a total bet win of 24.05€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Angers vs Brest
+DATE, TIME: 2022-08-21T13:00:02Z
+
+PROFIT: 3.69%
+
+
+BET:
+   bet OVER 3.5 on bookmaker UNIBET (quote: 2.4)
+   STAKE: bet 9.04€ for a total bet win of 21.71€
+
+   bet UNDER 3.5 on bookmaker PINNACLE (quote: 1.83)
+   STAKE: bet 11.86€ for a total bet win of 21.71€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Ligue 1 - France
+MATCH: Angers vs Brest
+DATE, TIME: 2022-08-21T13:00:02Z
+
+PROFIT: 7.33%
+
+
+BET:
+   bet OVER 3.5 on bookmaker MYBOOKIEAG (quote: 2.63)
+   STAKE: bet 7.46€ for a total bet win of 19.62€
+
+   bet UNDER 3.5 on bookmaker PINNACLE (quote: 1.83)
+   STAKE: bet 10.72€ for a total bet win of 19.62€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Dutch Eredivisie
+MATCH: Sparta Rotterdam vs Ajax
+DATE, TIME: 2022-08-21T12:35:58Z
+
+PROFIT: 3.02%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 2.9)
+   STAKE: bet 6.14€ for a total bet win of 17.8€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.6)
+   STAKE: bet 11.12€ for a total bet win of 17.8€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Dutch Eredivisie
+MATCH: Sparta Rotterdam vs Ajax
+DATE, TIME: 2022-08-21T12:35:58Z
+
+PROFIT: 12.18%
+
+
+BET:
+   bet OVER 1.5 on bookmaker UNIBET (quote: 3.95)
+   STAKE: bet 4.07€ for a total bet win of 16.07€
+
+   bet UNDER 1.5 on bookmaker PINNACLE (quote: 1.6)
+   STAKE: bet 10.05€ for a total bet win of 16.07€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: EPL
+MATCH: West Ham United vs Brighton and Hove Albion
+DATE, TIME: 2022-08-21T13:00:05Z
+
+PROFIT: 6.37%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MYBOOKIEAG (quote: 2.67)
+   STAKE: bet 5.49€ for a total bet win of 14.66€
+
+   bet UNDER 2.5 on bookmaker UNIBET (quote: 1.78)
+   STAKE: bet 8.24€ for a total bet win of 14.66€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: EPL
+MATCH: West Ham United vs Brighton and Hove Albion
+DATE, TIME: 2022-08-21T13:00:05Z
+
+PROFIT: 3.72%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MYBOOKIEAG (quote: 2.67)
+   STAKE: bet 4.98€ for a total bet win of 13.29€
+
+   bet UNDER 2.5 on bookmaker UNIBET (quote: 1.7)
+   STAKE: bet 7.82€ for a total bet win of 13.29€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Allsvenskan - Sweden
+MATCH: IFK Värnamo vs IF Elfsborg
+DATE, TIME: 2022-08-21T13:00:49Z
+
+PROFIT: 15.02%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 4.3)
+   STAKE: bet 2.79€ for a total bet win of 12.01€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.62)
+   STAKE: bet 7.41€ for a total bet win of 12.01€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Allsvenskan - Sweden
+MATCH: IFK Värnamo vs IF Elfsborg
+DATE, TIME: 2022-08-21T13:00:49Z
+
+PROFIT: 22.89%
+
+
+BET:
+   bet OVER 2.5 on bookmaker UNIBET (quote: 6.5)
+   STAKE: bet 1.69€ for a total bet win of 10.99€
+
+   bet UNDER 2.5 on bookmaker PINNACLE (quote: 1.62)
+   STAKE: bet 6.78€ for a total bet win of 10.99€
+
+----------------------------------------------------------------------------------------
+
+SPORT INFO: Bundesliga - Germany
+MATCH: Eintracht Frankfurt vs FC Koln
+DATE, TIME: 2022-08-21T13:30:38Z
+
+PROFIT: 34.28%
+
+
+BET:
+   bet OVER 2.5 on bookmaker MATCHBOOK (quote: 4.7)
+   STAKE: bet 5.35€ for a total bet win of 25.16€
+
+   bet UNDER 2.5 on bookmaker MYBOOKIEAG (quote: 2.25)
+   STAKE: bet 11.18€ for a total bet win of 25.16€
+
+----------------------------------------------------------------------------------------
+
