@@ -61,7 +61,7 @@ print('Bot running ...')
 while(1):
     # get live event odds
     while(i_key in range(0, len(keys_list))):
-        if(int(datetime.now().strftime("%-H")) == curr_hour + HOUR_INTERVAL):
+        if((int(datetime.now().strftime("%-H")) != curr_hour) and (int(datetime.now().strftime("%-H")) % HOUR_INTERVAL == 0)):
             curr_hour = int(datetime.now().strftime("%-H"))
             # it updates the balance every HOUR_INTERVAL hours, adding previous bet returns to EURO_BALANCE
             for gain in list(map(lambda x: x['EURO_back'], profittable_matches_bet_list)):
