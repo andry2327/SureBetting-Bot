@@ -37,7 +37,6 @@ if(float(EURO_STARTING_BALANCE) == -1):
     EURO_STARTING_BALANCE = 10000
 
 BALANCE_AMOUNT_RATIO = 0.1  # for each bet, the stake will be 1/10 of current balance
-
 EURO_BALANCE = float(EURO_STARTING_BALANCE)
 
 #reset log file
@@ -61,7 +60,7 @@ print('Bot running ...')
 while(1):
     # get live event odds
     while(i_key in range(0, len(keys_list))):
-        if(int(datetime.now().strftime("%-H")) == curr_hour + HOUR_INTERVAL):
+        if((int(datetime.now().strftime("%-H")) != curr_hour) and (int(datetime.now().strftime("%-H")) % HOUR_INTERVAL == 0)):
             curr_hour = int(datetime.now().strftime("%-H"))
             # it updates the balance every HOUR_INTERVAL hours, adding previous bet returns to EURO_BALANCE
             for gain in list(map(lambda x: x['EURO_back'], profittable_matches_bet_list)):
