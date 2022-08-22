@@ -37,7 +37,6 @@ if(float(EURO_STARTING_BALANCE) == -1):
     EURO_STARTING_BALANCE = 10000
 
 BALANCE_AMOUNT_RATIO = 0.1  # for each bet, the stake will be 1/10 of current balance
-
 EURO_BALANCE = float(EURO_STARTING_BALANCE)
 
 #reset log file
