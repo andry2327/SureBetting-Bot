@@ -148,10 +148,8 @@ while(1):
                                     sum_A_B_profit = stake_A + stake_B + profit
                                     bet_info['EURO_back'] = sum_A_B_profit
 
-                                    profittable_matches_bet_list.append(
-                                        bet_info)
-                                    DEBUG_print_bet(
-                                        points_elem, bet_info['key'], profittable_matches_bet_list)  # DEBUG
+                                    profittable_matches_bet_list.append(bet_info)
+                                    
                                     # file update
                                     logger.info('MATCH FOUND: ' +
                                                 '\n\n' + text_match)
