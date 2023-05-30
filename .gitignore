@@ -3,3 +3,9 @@
 /__pycache__
 /temp_log.json
 /profittable_matches.json
+_API_keys.py
+error.txt
+.gitignore
+output.txt
+temp.py
+exec.log
