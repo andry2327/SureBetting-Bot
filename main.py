@@ -4,6 +4,8 @@ from API_keys import keys_list, token
 from pathlib import Path
 if Path('_API_keys.py').exists():
     from _API_keys import keys_list, token
+else:
+    from API_keys import keys_list, token
 from functions import *
 import logging
 
