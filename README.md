@@ -33,15 +33,15 @@ When it finds them, it sends a message on the [telegram channel](https://t.me/+D
 
 1. Select "Telegram-implementation" branch
 
-   ```Python
+   ```Bash
     git checkout Telegram-implementation
    ```
 
 2. Install requirements:
-   ```Python
+   ```Bash
     pip install -r requirements.txt
    ```
 3. Run Bot with:
-    ```Python
+    ```Bash
     python3 main.py
    ```
