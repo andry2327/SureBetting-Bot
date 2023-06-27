@@ -31,11 +31,13 @@ When it finds them, it sends a message on the [telegram channel](https://t.me/+D
 
 # Installation and usage
 
-1. Install requirements:
+1. Select "Telegram-implementation" branch
+
+2. Install requirements:
    ```Python
     pip install -r requirements.txt
    ```
-2. Run Bot with:
+3. Run Bot with:
     ```Python
     python3 main.py
    ```
