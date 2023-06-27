@@ -33,6 +33,10 @@ When it finds them, it sends a message on the [telegram channel](https://t.me/+D
 
 1. Select "Telegram-implementation" branch
 
+   ```Python
+    git checkout Telegram-implementation
+   ```
+
 2. Install requirements:
    ```Python
     pip install -r requirements.txt
